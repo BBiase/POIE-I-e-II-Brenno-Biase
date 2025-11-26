@@ -1,0 +1,41 @@
+==============================mistral:7b==============================
+PE:O que significa TCC?
+CTX_BEGIN
+O trabalho de conclusão de curso (TCC) é executado por meio de duas disciplinas chamadas POIE I e II. O que acontece se o aluno tiver menos de 75% de frequência? O Colegiado do Curso de Licenciatura em Computação. O Coordenador do Curso de Licenciatura em Computação. Quanto tempo o aluno tem para apresentar seu trabalho na defesa?
+CTX_END
+
+PE:Quais são os objetivos da monografia?
+CTX_BEGIN
+Quem é considerado aluno em fase de Projeto e Monografia? Com quanto tempo de antecedência as monografias devem ser enviadas aos examinadores? Quem estiver matriculado em POIE I (Projeto) e POIE II (Monografia). Quantas horas semanais são atribuídas ao Coordenador do POIE? Redigir o texto da monografia, reunir-se periodicamente com seu orientador, atentar-se aos prazos do cronograma, apresentar oralmente seu trabalho nas etapas de POIE.
+CTX_END
+
+PE:Quais são as atribuições do coordenador?
+CTX_BEGIN
+Quantas horas semanais são atribuídas ao Coordenador do POIE? Quais são as principais responsabilidades e deveres do Coordenador do POIE? O Coordenador de POIE junto com o Coordenador do Curso. O aluno, sem prejuízo das atribuições do Professor Orientador. O que ocorre se o aluno entregar versões fora do prazo?
+CTX_END
+
+PE:O que o aluno deve fazer se não encontrar um orientador?
+CTX_BEGIN
+Como o aluno escolhe o Professor Orientador no POIE I? 1 folha de encaminhamento assinada pelo orientador. O que fazer se nenhum professor aceitar orientar o aluno? O aluno, sem prejuízo das atribuições do Professor Orientador. O aluno deve procurar o Coordenador do POIE, que indicará um orientador observando área do projeto e distribuição equilibrada de orientandos.
+CTX_END
+
+PE:Quem deve escrever a monografia?
+CTX_BEGIN
+Quem é considerado aluno em fase de Projeto e Monografia? Com quanto tempo de antecedência as monografias devem ser enviadas aos examinadores? Quem estiver matriculado em POIE I (Projeto) e POIE II (Monografia). Quantos membros precisam estar presentes para realizar a defesa? Redigir o texto da monografia, reunir-se periodicamente com seu orientador, atentar-se aos prazos do cronograma, apresentar oralmente seu trabalho nas etapas de POIE.
+CTX_END
+
+PE:Quanto o aluno deve tirar para ser aprovado em TCC?
+CTX_BEGIN
+O trabalho de conclusão de curso (TCC) é executado por meio de duas disciplinas chamadas POIE I e II. Quanto tempo o aluno tem para apresentar seu trabalho na defesa? O que acontece se o aluno tiver menos de 75% de frequência? O Coordenador do Curso de Licenciatura em Computação. O Colegiado do Curso de Licenciatura em Computação.
+CTX_END
+
+PE:O aluno que tirar nota 7 está aprovado?
+CTX_BEGIN
+O que ocorre se o aluno ficar com média entre 4,0 e 6,0? O que acontece se o aluno não entregar o trabalho ou não comparecer à defesa? Quanto tempo o aluno tem para apresentar seu trabalho na defesa? O que acontece se o aluno tiver menos de 75% de frequência? O que fazer se nenhum professor aceitar orientar o aluno?
+CTX_END
+
+PE:Quantos orientandos cada orientador pode ter?
+CTX_BEGIN
+Quantos alunos cada professor pode orientar? O aluno deve procurar o Coordenador do POIE, que indicará um orientador observando área do projeto e distribuição equilibrada de orientandos. Como o aluno escolhe o Professor Orientador no POIE I? 1 folha de encaminhamento assinada pelo orientador. Quais são os deveres do Professor Orientador?
+CTX_END
+

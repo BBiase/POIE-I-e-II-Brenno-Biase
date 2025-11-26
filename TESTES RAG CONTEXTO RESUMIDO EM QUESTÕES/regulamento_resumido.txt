@@ -1,0 +1,39 @@
+O que é o POIE? O POIE é uma pesquisa individual orientada, relatada em forma de monografia, sobre um tema da computação aplicada à educação.
+Qual é a finalidade da Monografia? Demonstrar habilitação do aluno, aprofundamento temático, estímulo à produção científica, uso de bibliografia especializada e desenvolvimento de soluções tecnológicas aplicadas ao ensino. 
+Quem indica o Coordenador do POIE? O Coordenador do Curso de Licenciatura em Computação.
+Quantas horas semanais são atribuídas ao Coordenador do POIE? Quatro horas semanais referentes ao componente curricular POIE.
+Quais são as principais responsabilidades e deveres do Coordenador do POIE? Atender alunos, orientar com apoio dos orientadores, publicar lista de orientadores, elaborar cronogramas, receber projetos e monografias, coordenar bancas e efetivar notas, entre outras.
+Como o aluno escolhe o Professor Orientador no POIE I? O aluno escolhe, por requerimento próprio, um professor disponível da área de interesse, mediante aceite do orientador. 
+O aluno pode ter coorientador? Sim, pertencente à UEA ou externo. 
+O que fazer se nenhum professor aceitar orientar o aluno? O aluno deve procurar o Coordenador do POIE, que indicará um orientador observando área do projeto e distribuição equilibrada de orientandos. 
+Quantos alunos cada professor pode orientar? No máximo 8 alunos por semestre. 
+É permitido trocar de orientador? Sim, mediante requerimento justificado e homologação do Coordenador, observados os prazos do cronograma. 
+Quais são os deveres do Professor Orientador? Incluir reuniões, atendimento aos orientandos, avaliação do tema, acompanhamento do desenvolvimento, correção das versões, emissão do Termo de Encaminhamento, participação na defesa e cumprimento do regulamento. 
+Quem é responsável pela redação e desenvolvimento da pesquisa? O aluno, sem prejuízo das atribuições do Professor Orientador. 
+Quem preside a banca de avaliação do POIE? O Professor Orientador. 
+Quem é considerado aluno em fase de Projeto e Monografia? Quem estiver matriculado em POIE I (Projeto) e POIE II (Monografia). 
+Quais são os principais deveres do aluno durante o POIE? Participar de reuniões, manter contato semanal com orientador, cumprir cronograma, entregar versões impressas conforme regras, defender publicamente, e manter 75% de frequência. 
+Quais documentos o aluno deve entregar ao final do POIE I? 3 cópias impressas encadernadas em espiral; 1 folha de encaminhamento assinada pelo orientador.
+Quais documentos devem ser entregues ao final do POIE II? Devem ser entregues: 3 cópias impressas; Folha de encaminhamento; Folha de autorização de publicação; Cópias de código e instalador (quando houver sistema); Cópias de código e URL (quando for aplicação web); 1 cópia em capa dura verde + 1 versão digital em PDF. 
+O que acontece se o aluno tiver menos de 75% de frequência? Será automaticamente reprovado. 
+O que ocorre se o aluno entregar versões fora do prazo? Há penalidades graduais, incluindo perda parcial ou total da avaliação, dependendo do atraso, e possibilidade de não colar grau se não entregar a versão final em capa dura. 
+A monografia deve seguir qual padrão? As normas da ABNT e o modelo formal definido pelo Colegiado do Curso. 
+O aluno pode mudar o tema no POIE II? Sim, desde que elabore novo projeto em até 30 dias do início do semestre e com parecer favorável do orientador. 
+Como funcionam os seminários de andamento? O aluno apresenta resultados parciais; a banca é composta por dois professores e o orientador não participa da banca. 
+Como é composta a banca de defesa final? Pelo orientador (presidente) e dois examinadores indicados pelo orientador e designados pelo Coordenador. 
+Quem pode ser examinador? Um professor do curso e um membro externo da área afim; se não houver externo, ambos podem ser do curso. 
+Quantos membros precisam estar presentes para realizar a defesa? Três membros. 
+As defesas são públicas? Sim. 
+Quem define o cronograma de atividades? O Coordenador de POIE junto com o Coordenador do Curso. 
+Com quanto tempo de antecedência as monografias devem ser enviadas aos examinadores? Com pelo menos 15 dias de antecedência. 
+Quanto tempo o aluno tem para apresentar seu trabalho na defesa? Projeto: 12 a 15 min Monografia: 15 a 20 min
+Como as notas são atribuídas? Cada examinador atribui nota individual conforme critérios do regulamento; a média define o resultado. 
+O que acontece se o aluno não entregar o trabalho ou não comparecer à defesa? Será automaticamente reprovado. 
+Como é composta a avaliação do POIE? 20% Seminário de andamento; 60% Texto do projeto/monografia; e 20% Apresentação oral 
+Qual é o critério de aprovação final? Obter média final igual a 6,0 ou superior. 
+O que ocorre se o aluno ficar com média entre 4,0 e 6,0? Deve realizar correções e passar por nova avaliação. 
+É possível substituir o POIE por artigo científico publicado? Sim, se o aluno for primeiro autor de artigo completo relacionado à informática na educação, publicado ou aceito em veículo com Qualis ≥ B. 
+Quais documentos são necessários para solicitar a substituição pelo artigo? Cópia do artigo, da capa do veículo, e do aceite/certificado de publicação. 
+Quem decide sobre pedidos não previstos no regulamento? O Colegiado do Curso de Licenciatura em Computação. 
+Qual a relação entre TCC e POIE? O trabalho de conclusão de curso (TCC) é executado por meio de duas disciplinas chamadas POIE I e II.
+Quais as responsabilidades do aluno? Redigir o texto da monografia, reunir-se periodicamente com seu orientador, atentar-se aos prazos do cronograma, apresentar oralmente seu trabalho nas etapas de POIE.

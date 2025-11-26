@@ -1,0 +1,49 @@
+==============================mistral:7b==============================
+TC:6.916806
+PE:O que significa TCC?
+RE:O TCC (Trabalho de Conclusão de Curso) é uma atividade acadêmica que é realizada através das duas disciplinas chamadas POIE I e II. É o projeto final do aluno durante seu curso, geralmente envolvendo pesquisa original na área escolhida pela ele mesmo.
+TR:27.382747
+CL:5
+
+TC:6.916806
+PE:Quais são os objetivos da monografia?
+RE:Os objetivos da monografia, no contexto fornecido, incluem:  1. Demonstrar ao colegiado do curso e à comunidade acadêmica um conhecimento profundo em uma área específica, tendo em conta a matéria abordada durante o curso de Projeto Integrado de Estudos (POIE) I e POIE II. 2. Desenvolver habilidades de pesquisa, análise crítica, raciocínio lógico, comunicação oral e escrita, organização do tempo e trabalho em equipe, que serão importantes no exercício profissional futuro. 3. Promover a criação original de conhecimento na área escolhida, contribuindo assim para o avanço da ciência e tecnologia. 4. Apresentar um projeto de pesquisa ou desenvolvimento prático que resolva um problema específico ou contribua para a melhoria de uma situação real ou hipotética, oferecendo soluções inovadoras e viáveis. 5. Permitir que o aluno apresente sua própria visão crítica sobre um assunto específico e demonstre suas habilidades para conduzir uma investigação científica ou projetar uma solução técnica com profundidade, rigor e originalidade. 6. Preparar o aluno para a realização de uma apresentação oral de alto nível de qualidade, demonstrando sua capacidade de expressão clara, precisão e concisão, bem como sua habilidade em responder às dúvidas dos membros do colegiado e da comunidade acadêmica. 7. Permitir ao aluno refletir sobre o papel que ele desempenha no cenário profissional e na sociedade em geral, além de desenvolver uma visão crítica sobre a relevância social do seu projeto ou pesquisa. 8. Desenvolver o sentido de responsabilidade, ética e integridade acadêmica, bem como a importância da cooperação entre profissionais na realização de projetos ou pesquisas de grande impacto.
+TR:123.504948
+CL:5
+
+TC:6.916806
+PE:Quais são as atribuições do coordenador?
+RE:As principais atribuições do Coordenador do POIE no contexto da Licenciatura em Computação na UEA são: atender os alunos, orientar com apoio dos orientadores, publicar a lista de orientadores, elaborar cronogramas, receber projetos e monografias, coordenar bancas de trabalho e efetivar notas. Essas atribuições são compartilhadas com o Coordenador do Curso em relação à definição do cronograma de atividades.
+TR:40.752882
+CL:5
+
+TC:6.916806
+PE:O que o aluno deve fazer se não encontrar um orientador?
+RE:Se o aluno não puder encontrar um orientador, deverá procurar o Coordenador do POIE (Programa de Orientações em Estágio), pois ele irá indicar um orientador observando a área do projeto e distribuindo equilibradamente os orientandos.
+TR:27.788363
+CL:5
+
+TC:6.916806
+PE:Quem deve escrever a monografia?
+RE:A monografia é escrita pelo aluno que está matriculado na fase de POIE II (Monografia).
+TR:18.491328
+CL:5
+
+TC:6.916806
+PE:Quanto o aluno deve tirar para ser aprovado em TCC?
+RE:Para ser aprovado no TCC, o aluno precisa obter nota acima ou igual a 6,0 (dez) na defesa pública, de acordo com as regras estabelecidas.
+TR:20.204679
+CL:5
+
+TC:6.916806
+PE:O aluno que tirar nota 7 está aprovado?
+RE:Sim, o aluno que tirar nota 7 está aprovado, pois essa média é superior a 6,0, que é a média mínima para aprovação.
+TR:20.154994
+CL:5
+
+TC:6.916806
+PE:Quantos orientandos cada orientador pode ter?
+RE:No máximo 8 alunos por semestre.
+TR:15.527121
+CL:5
+

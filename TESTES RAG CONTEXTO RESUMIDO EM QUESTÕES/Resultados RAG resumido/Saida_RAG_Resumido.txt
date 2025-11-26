@@ -1,0 +1,49 @@
+==============================mistral:7b==============================
+TC:10.016979
+PE:O que significa TCC?
+RE:Na tradução livre, TCC significa "Trabalho de Conclusão de Curso". Este é um projeto acadêmico final que os alunos concluem para receber seu diploma.
+TR:19.204689
+CL:5
+
+TC:10.016979
+PE:Quais são os objetivos da monografia?
+RE:Naquele contexto, as seguintes são as metas ou objetivos da Monografia:  1. Demonstrar a capacidade de pesquisa independente do aluno em fase de Projeto e Monografia; 2. Permitir ao estudante desenvolver habilidades em investigação, pensamento crítico e apresentação de informações; 3. Fornecer um ambiente para a exploração em profundidade de uma área específica; 4. Desenvolver habilidades em escrita técnica e oral; 5. Permitir ao aluno demonstrar sua competência na área escolhida; 6. Fornecer um produto acadêmico que serve de base para a futura carreira do estudante, seja profissional ou acadêmica.
+TR:45.555058
+CL:5
+
+TC:10.016979
+PE:Quais são as atribuições do coordenador?
+RE:As atribuições do Coordinator do POIE (Plano Operacional Integrado Escolar) incluem: - Supervisionar e gerenciar o planejamento, organização e execução do Plano Operacional Integrado Escolar em sua instituição escolar. - Coordenar e acompanhar a implementação dos projetos educacionais em andamento no POIE. - Identificar e resolver problemas que possam surgir nas atividades do POIE, além de gerenciar recursos humanos e materiais associados ao planejamento e execução do POIE. - Promover comunicações entre a equipe escolar envolvida no POIE e outras instituições relevantes (como o Ministério da Educação, autoridades locais, órgãos de coordenação e a sociedade em geral). - Realizar avaliações periódicas do funcionamento do POIE e gerenciar suas modificações necessárias. Sobre o aluno ter coorientador, sim, um aluno pode ter um Coordenador de Projeto ou Coordenador de Trabalho em equipe, que serve como uma espécie de supervisor acadêmico adicional e pode ajudar o aluno na realização de seus trabalhos.
+TR:74.516169
+CL:4
+
+TC:10.016979
+PE:O que o aluno deve fazer se não encontrar um orientador?
+RE:Se o aluno não encontrar um orientador no POIE (Programa Interdisciplinar de Pós-Graduação em Engenharia), ele deverá seguir estas etapas:  1. A primeira coisa que ele deve fazer é consultar a equipe de coordenação do programa para saber se há alguma orientadora disponível ou se há possibilidade de nova abertura de vaga. 2. Caso não haja solução imediata, o aluno deverá apresentar sua proposta de pesquisa a vários professores do programa e tentar convencer um deles a ser seu orientador. 3. Neste caso, é importante que o aluno tenha uma proposta clara e com fundamento teórico e prático, além de possuir conhecimentos básicos em sua área de interesse. 4. Se nenhum professor aceitar orientar o aluno após tentativas, ele pode solicitar a ajuda da equipe de coordenação do programa para encontrar uma solução alternativa, como por exemplo, fazer consulta em outro programa ou instituição que tenha interesse na área do aluno. 5. Por último, é importante ressaltar que o aluno tem liberdade para trocar de orientador caso necessário, mas isto deve ser feito em conjunto com a equipe de coordenação do programa e sempre após discutir as razões com o professor atual.
+TR:83.316722
+CL:4
+
+TC:10.016979
+PE:Quem deve escrever a monografia?
+RE:Naquele contexto, o aluno é quem deve escrever a monografia. Ele tem a responsabilidade de conduzir e documentar seu projeto original, apresentando as suas descobertas e conclusões na forma de uma monografia acadêmica.
+TR:22.967233
+CL:5
+
+TC:10.016979
+PE:Quanto o aluno deve tirar para ser aprovado em TCC?
+RE:No contexto apresentado, não foi fornecido critério específico de nota necessária para aprovação no TCC. Em geral, o critério de avaliação pode variar entre diferentes instituições educacionais. Por isso, é preciso consultar as regras específicas do estabelecimento onde o aluno está matriculado para obter informações precisas.
+TR:27.645367
+CL:1
+
+TC:10.016979
+PE:O aluno que tirar nota 7 está aprovado?
+RE:1. Se o aluno ficar com média entre 4,0 e 6,0, ele estará com média suficiente para passar e ser aprovado se ele atender às outras exigências do curso, como as apresentações de trabalhos ou defesas. 2. As notas são atribuídas com base na qualidade do trabalho entregue pelo aluno, nas notas de participação em aulas e discussões, na apresentação dos trabalhos e no desempenho geral do aluno ao longo do curso. 3. Com pelo menos 15 dias de antecedência, o aluno deve entregar o trabalho para que seja corrigido e analisado. Se o aluno não entregar o trabalho, ele pode ser penalizado com uma nota baixa ou até expulso do curso. 4. A data exata para apresentação do trabalho na defesa é definida pelo professor do curso, mas é comum que seja em uma data específica ao longo do semestre ou ano letivo. 5. O aluno tem tempo suficiente para apresentar seu trabalho na defesa apenas quando este está pronto e correto. Se o aluno não comparecer à defesa, será penalizado com uma nota baixa ou até expulso do curso.
+TR:79.388121
+CL:1
+
+TC:10.016979
+PE:Quantos orientandos cada orientador pode ter?
+RE:No contexto fornecido, não há uma resposta precisa quanto ao número máximo de orientandos que um orientador pode ter no POIE (Programa de Orientação em Investigação em Engenharia). Isso depende da disponibilidade do orientador para trabalhar com alunos e dos critérios estabelecidos por cada instituto ou programa. Porém, geralmente é esperado que um orientador tenha uma carga razoável de orientandos para garantir qualidade no processo de pesquisa e na supervisão individual de cada aluno.
+TR:35.098837
+CL:1
+
