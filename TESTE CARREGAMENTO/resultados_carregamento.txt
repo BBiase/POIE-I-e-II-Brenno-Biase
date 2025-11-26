@@ -1,0 +1,5 @@
+============ gemma3:12b ============
+Quantidade de testes de carregamento: 3
+1-TC:13.99
+2-TC:10.79
+3-TC:11.26
