@@ -1,0 +1,30 @@
+5 saídas mais relevantes do FAISS
+
+TESTE 1
+ICL+ MODELOS
+Llamma3:8b - Nota média: 6,75
+DeepSeek-r1:7b - Nota média: 2,63
+DeepSeek-r1:8b - Nota média: 5,50
+Gemma3:4b - Nota média: 6,0
+Mistral:7b - Nota Média: 6,75
+
+TESTE 2
+ICL+MODELOS
+Phi4:14b - Nota Média: 7,25
+Deepseek-r1:14b - Nota Média: 5,88
+Gemma3:12b - Nota Média: 7,25
+
+TESTE 3
+ICL+MODELOS
+Inviável devido ao tempo de execução
+
+TESTE 4
+RAG+MODELOS
+Llamma3:8b - Nota média: 8,00
+DeepSeek-r1:7b - Nota média: 4,25
+DeepSeek-r1:8b - Nota média: 5,25
+Gemma3:4b - Nota média: 9,63
+Mistral:7b - Nota Média: 9,63
+Phi4:14b - Nota Média: 9,63
+Deepseek-r1:14b - Nota Média: 8,75
+Gemma3:12b - Nota Média: 9,63

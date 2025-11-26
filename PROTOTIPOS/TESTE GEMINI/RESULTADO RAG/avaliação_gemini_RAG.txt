@@ -1,0 +1,271 @@
+==============================gemma3:12b==============================
+
+PE: "1 - O que significa TCC?"
+RE: "O contexto não menciona diretamente o que significa "TCC". No entanto, a partir dos artigos apresentados, podemos inferir que **TCC se refere ao Trabalho de Conclusão de Curso** do aluno de Licenciatura em Computação. As regras detalhadas nos artigos (como a defesa perante Banca Examinadora - Art. 19, a possibilidade de substituição por artigos científicos - Arts. 31 e 32) são típicas de um processo de elaboração e defesa de um TCC."
+CL: 5
+
+PE: "2 - Quais são os objetivos da monografia?"
+RE: "De acordo com o Art. 3º do texto, os objetivos da Monografia são:  *   Propiciar aos alunos do Curso de Licenciatura em Computação a oportunidade de demonstrar o grau de habilitação adquirido. *   Promover o aprofundamento temático. *   Estimular a produção científica. *   Incentivar a consulta de bibliografia especializada. *   Aprimorar a capacidade de interpretação e crítica. *   Permitir o desenvolvimento de soluções tecnológicas inovadoras e adaptadas ao contexto do ensino."
+CL: 5
+
+PE: "3 - Quais são as atribuições do coordenador?"
+RE: "De acordo com o texto fornecido, as atribuições do coordenador (especificamente o Coordenador de POIE e o Coordenador do Curso) são as seguintes:  *   **Homologar pedidos de troca de orientador:** (Art. 9º) *   **Resolver casos especiais:** (Art. 9º, Parágrafo Único) *   **Elaborar o Cronograma de Atividades:** (Art. 23) - fixando prazos, designando bancas e datas de defesa. *   **Indicar Professores Orientadores:** (Art. 7º) - Quando um aluno não encontra orientador, o coordenador deve indicar um. *   **Observar a distribuição de áreas de interesse e orientandos:** (Art. 7º, Parágrafo Único) - ao indicar professores orientadores. *   **Computar a frequência do aluno:** (Art. 8º) - nos encontros com a Coordenação e nas reuniões de orientação. *   **Indicar um Coordenador de POIE:** (Art. 4º) - o Coordenador do Curso deve indicar.  Essas atribuições garantem a organização, acompanhamento e supervisão do processo de orientação e desenvolvimento dos projetos dos alunos."
+CL: 3
+
+PE: "4 - O que o aluno deve fazer se não encontrar um orientador?"
+RE: "De acordo com o Art. 7º do texto, se o aluno não encontrar nenhum professor que aceite assumir a orientação, ele deve procurar o Coordenador de POIE para que este lhe indique um Professor Orientador."
+CL: 5
+
+PE: "5 - Quem deve escrever a monografia?"
+RE: "De acordo com o contexto apresentado, a monografia deve ser escrita pelo **aluno** do Curso de Licenciatura em Computação. O texto indica que a monografia serve para que o aluno demonstre seu grau de habilitação e aprofundamento temático."
+CL: 5
+
+PE: "6 - Quanto o aluno deve tirar para ser aprovado no TCC?"
+RE: "O texto não menciona uma nota mínima para aprovação no Trabalho de Conclusão de Curso (TCC), que no contexto do POIE é a Monografia. Ele descreve apenas a avaliação do POIE, que é dividida em três itens:  *   **Seminário de Andamento:** 20% da nota *   **Texto da Monografia/Projeto de Pesquisa:** 60% da nota *   **Apresentação Oral:** 20% da nota  Para saber a nota mínima para aprovação, seria necessário consultar outras normas ou regulamentos não apresentados no texto."
+CL: 1
+
+PE: "7 - O aluno que tirar nota 7 está aprovado?"
+RE: "De acordo com o contexto fornecido, a resposta é **não necessariamente**.  Embora o aluno tenha tirado uma nota alta (7), a aprovação final depende da média das notas individuais atribuídas pelos membros da banca examinadora. O Art. 29, §2º, estabelece que o aluno precisa ter uma média igual ou superior a 6,0 nas notas individuais para ser considerado aprovado.  O texto indica que a nota final só é publicada após a Defesa, o que sugere que essa média individual será calculada durante a defesa. Portanto, a nota 7 que o aluno obteve é uma informação isolada, e a aprovação dependerá do resultado final da média da banca."
+CL: 5
+
+PE: "8 - Quantos orientandos cada orientador pode ter?"
+RE: "De acordo com o Artigo 14 do documento, cada orientador pode ter **até 50% de seus alunos** em cada disciplina (POIE I e POIE II). O texto não especifica um número fixo, mas indica que é um limite de 50% da sua carga de alunos."
+CL: 1
+
+==============================phi4:14b==============================
+
+PE: "1 - O que significa TCC?"
+RE: "No contexto fornecido, "TCC" refere-se ao Trabalho de Conclusão de Curso. É um requisito acadêmico para concluir alguns cursos de graduação, como é mencionado no Artigo 19 do contexto, onde se fala sobre a defesa pública da versão final do Projeto e da Monografia perante uma Banca Examinadora. O TCC geralmente envolve pesquisa independente ou um projeto prático que demonstra o conhecimento e as habilidades adquiridas pelo aluno durante seu curso de graduação."
+CL: 2
+
+PE: "2 - Quais são os objetivos da monografia?"
+RE: "Os objetivos gerais da monografia, conforme o artigo mencionado, incluem:  1. Proporcionar aos alunos do Curso de Licenciatura em Computação a oportunidade de demonstrar o grau de habilitação adquirido durante seus estudos.  2. Permitir um aprofundamento temático no assunto escolhido para a monografia, incentivando os alunos a se especializarem mais sobre determinado tema.  3. Estimular a produção científica dos estudantes ao exigir que eles realizem uma pesquisa e apresentação de um trabalho acadêmico bem fundamentado.  4. Incentivar o uso da bibliografia especializada, promovendo consulta e análise de fontes confiáveis e relevantes no campo do estudo.  5. Aprimorar a capacidade dos alunos na interpretação e crítica das informações e argumentos apresentados em suas monografias.  6. Oferecer aos estudantes a possibilidade de desenvolver soluções tecnológicas inovadoras, adaptadas ao contexto educacional, promovendo a aplicação prática do conhecimento adquirido.  Esses objetivos visam não apenas o aperfeiçoamento acadêmico e intelectual dos alunos, mas também sua preparação para futuras carreiras na área de computação."
+CL: 5
+
+PE: "3 - Quais são as atribuições do coordenador?"
+RE: "As atribuições do Coordenador de POIE (Projeto de Orientação, Investigação e Ensino em Informática na Educação), conforme o contexto fornecido, incluem:  1. **Troca de Orientador**: Homologar requerimentos para troca de orientador mediante justificativa apropriada, respeitando os prazos estabelecidos no Cronograma de Atividades.  2. **Caso Especial**: Resolver casos especiais e, se necessário, encaminhá-los ao Coordenador do Curso de Licenciatura em Computação para decisão final.  3. **Elaboração do Cronograma**: Em conjunto com o Coordenador do Curso, elaborar o Cronograma de Atividades semestral, que inclui fixar prazos para entrega das Monografias e Projetos, designar Bancas Examinadoras e agendar datas e horários para as Defesas Públicas.  4. **Indicação de Orientadores**: Indicar professores orientadores quando o aluno não consegue encontrar um por conta própria. A escolha deve considerar o Projeto de Pesquisa do estudante e a distribuição equitativa de orientandos entre os professores, levando em conta as áreas de interesse.  5. **Horas Semanais**: O Coordenador de POIE tem seu tempo de trabalho acadêmico contabilizado como 4 horas semanais dedicadas ao componente curricular POIE.  6. **Convocação e Supervisão**: Convocar reuniões que devem ser frequentadas pelos alunos e supervisionar o cumprimento do cronograma e outros deveres específicos dos alunos em fase de desenvolvimento de projetos ou redação de monografias.  Essas atribuições destacam a função central do Coordenador na gestão, supervisão e orientação acadêmica dentro do curso."
+CL: 3
+
+PE: "4 - O que o aluno deve fazer se não encontrar um orientador?"
+RE: "Se o aluno não conseguir encontrar um professor disposto a assumir sua orientação, ele deve procurar o Coordenador do Programa de Orientação em Informática na Educação (POIE). De acordo com o Art. 7º, é responsabilidade do Coordenador indicar um Professor Orientador ao aluno. Na indicação, o Coordenador deve levar em consideração o Projeto de Pesquisa apresentado pelo aluno e tentar observar a distribuição equitativa dos orientandos entre os professores, respeitando sempre que possível as áreas de interesse desses docentes."
+CL: 5
+
+PE: "5 - Quem deve escrever a monografia?"
+RE: "A monografia deve ser escrita pelo aluno do Curso de Licenciatura em Computação. De acordo com o contexto fornecido, um dos objetivos gerais da monografia é proporcionar aos alunos a oportunidade de demonstrar seu grau de habilitação e capacidades adquiridas durante o curso, como o aprofundamento temático, consulta à bibliografia especializada e desenvolvimento de soluções tecnológicas. Portanto, cabe ao aluno elaborar a monografia para atender esses objetivos.  Além disso, conforme estabelecido no Artigo 19, a versão final da monografia será defendida pelo aluno perante uma Banca Examinadora. Isso implica que o trabalho escrito deve refletir o entendimento e as habilidades do próprio aluno, já que ele é responsável por sua apresentação e defesa em público, conforme mencionado no Artigo 22. O papel do Professor Orientador, incluindo a coordenação da banca examinadora (Artigos 19 e 24), consiste em orientar o aluno durante o processo de desenvolvimento da monografia, mas não em escrevê-la."
+CL: 5
+
+PE: "6 - Quanto o aluno deve tirar para ser aprovado no TCC?"
+RE: "O contexto não especifica um valor mínimo de nota que o aluno precisa obter para ser aprovado no Trabalho de Conclusão de Curso (TCC). No entanto, a avaliação do aluno no Programa de Orientação em Iniciação à Educação (POIE) é baseada nos seguintes itens obrigatórios:  1. Seminário de Andamento: 20% 2. Texto da monografia ou do Projeto de Pesquisa: 60% 3. Apresentação Oral: 20%  Para determinar o desempenho necessário para aprovação, seria importante consultar os regulamentos específicos do curso ou programa que podem estabelecer critérios adicionais, como a nota mínima requerida em cada componente e a média geral necessária.  Se esses detalhes não estão disponíveis no contexto fornecido, você deve consultar o regimento interno do Curso de Licenciatura em Computação ou entrar em contato com a coordenação do curso para obter informações específicas sobre os critérios de aprovação. Geralmente, cursos universitários estabelecem uma média mínima (por exemplo, 7.0 em uma escala de 0 a 10) e podem exigir que nenhum dos componentes seja reprovado individualmente para garantir a aprovação no TCC."
+CL: 1
+
+PE: "7 - O aluno que tirar nota 7 está aprovado?"
+RE: "Sim, o aluno está aprovado. De acordo com o Artigo 29, parágrafo 2º, para ser considerado aprovado no componente curricular, o aluno deve obter uma média igual ou superior a 6,0 nas notas individuais atribuídas pelos membros da banca examinadora. Como a nota de 7 é superior a 6,0, o aluno está aprovado nesse critério.  Contudo, é importante lembrar que a aprovação final do componente curricular também depende de outros requisitos estabelecidos no regulamento. Por exemplo, conforme o Artigo 27, o aluno deve entregar a Monografia ou Projeto na data prevista e realizar sua Defesa Oral. Caso falhe em algum desses aspectos, ele poderá estar automaticamente reprovado, apesar de ter obtido uma nota satisfatória nas avaliações da banca examinadora.  Portanto, enquanto a nota de 7 garante a aprovação no critério específico das notas atribuídas pela banca, o cumprimento de outros requisitos do regulamento também é essencial para garantir a aprovação final no componente curricular."
+CL: 5
+
+PE: "8 - Quantos orientandos cada orientador pode ter?"
+RE: "Cada professor pode orientar no máximo 8 (oito) alunos por semestre. Isso é estipulado no Artigo 8º do contexto fornecido."
+CL: 5
+
+==============================mistral:7b==============================
+
+PE: "1 - O que significa TCC?"
+RE: "No contexto fornecido, o termo TCC não é definido explicitamente. Porém, se basearmos-nos na convenção geral, o TCC (Trabalho de Conclusão de Curso) é aquele trabalho final apresentado pelo aluno no curso de Licenciatura em Computação (artigo 33), que é defendido perante Banca Examinadora e composto pelo Projeto e pela Monografia (artigo 19)."
+CL: 3
+
+PE: "2 - Quais são os objetivos da monografia?"
+RE: "Os objetivos da Monografia no Curso de Licenciatura em Computação são: propiciar aos alunos demonstração do grau de habilitação adquirido, aprofundamento temático, estímulo à produção científica, consulta de bibliografia especializada e ao aprimoramento da capacidade de interpretação e crítica. Além disso, objetiva também à possibilidade do aluno desenvolver soluções tecnológicas inovadoras e adaptadas ao contexto do ensino."
+CL: 5
+
+PE: "3 - Quais são as atribuições do coordenador?"
+RE: "As atribuições do Coordenador de POIE (Projeto de Orientação, Investigação e Ensino em Informática na Educação), conforme o contexto fornecido, incluem:  1. **Troca de Orientador**: Homologar requerimentos para troca de orientador mediante justificativa apropriada, respeitando os prazos estabelecidos no Cronograma de Atividades.  2. **Caso Especial**: Resolver casos especiais e, se necessário, encaminhá-los ao Coordenador do Curso de Licenciatura em Computação para decisão final.  3. **Elaboração do Cronograma**: Em conjunto com o Coordenador do Curso, elaborar o Cronograma de Atividades semestral, que inclui fixar prazos para entrega das Monografias e Projetos, designar Bancas Examinadoras e agendar datas e horários para as Defesas Públicas.  4. **Indicação de Orientadores**: Indicar professores orientadores quando o aluno não consegue encontrar um por conta própria. A escolha deve considerar o Projeto de Pesquisa do estudante e a distribuição equitativa de orientandos entre os professores, levando em conta as áreas de interesse.  5. **Horas Semanais**: O Coordenador de POIE tem seu tempo de trabalho acadêmico contabilizado como 4 horas semanais dedicadas ao componente curricular POIE.  6. **Convocação e Supervisão**: Convocar reuniões que devem ser frequentadas pelos alunos e supervisionar o cumprimento do cronograma e outros deveres específicos dos alunos em fase de desenvolvimento de projetos ou redação de monografias.  Essas atribuições destacam a função central do Coordenador na gestão, supervisão e orientação acadêmica dentro do curso."
+CL: 3
+
+PE: "4 - O que o aluno deve fazer se não encontrar um orientador?"
+RE: "Caso o aluno não encontre nenhum professor para orientação, deve procurar o Coordenador do Programa de Pós-Graduação em Informática da Educação (POIE), que lhe indicará um professor orientador. A escolha do Professor Orientador dever ser feita com consideração à área de interesse dos professores e à distribuição equitativa de orientandos entre eles."
+CL: 2
+
+PE: "5 - Quem deve escrever a monografia?"
+RE: "O estudante deve escrever a monografia."
+CL: 5
+
+PE: "6 - Quanto o aluno deve tirar para ser aprovado no TCC?"
+RE: "Nesse contexto, não há informação específica sobre a nota mínima necessária para aprovação do trabalho de conclusão de curso (TCC). O TCC é avaliado com base em pelo menos três itens obrigatórios: seminário de andamento, texto da monografia ou do Projeto de Pesquisa e apresentação oral. Porém, cada um desses itens tem uma porcentagem diferente no total da nota final (20% para o seminário de andamento, 60% para o texto da monografia ou do Projeto de Pesquisa e 20% para a apresentação oral). Portanto, como não há informação sobre quanto cada item deve ser considerado para aprovação, também não é possível responder quanto o aluno deve tirar para ser aprovado. É necessário consultar as especificações ou diretrizes do Curso de Licenciatura em Computação que regulam essa questão."
+CL: 2
+
+PE: "7 - O aluno que tirar nota 7 está aprovado?"
+RE: "Sim, de acordo com o artigo 27 do regulamento, o aluno que obtiver média igual ou superior a 6,0 (seis) nas notas individuais atribuídas pelos membros da banca examinadora será considerado aprovado no componente curricular. Então, se o aluno tirar 7 (sete), estará aprovado, pois nota 7 é maior ou igual a 6,0."
+CL: 3
+
+PE: "8 - Quantos orientandos cada orientador pode ter?"
+RE: "No contexto fornecido, cada orientador pode ter no máximo 08 (oito) alunos por semestre."
+CL: 5
+
+==============================llama3==============================
+
+PE: "1 - O que significa TCC?"
+RE: "No contexto apresentado, não há menção específica ao termo "TCC". No entanto, é provável que se refira à Monografia (Art. 19) ou ao Projeto e da Monografia (Art. 33), pois o regulamento descreve as características e os processos envolvidos na defesa pública e no aprovamento dessas trabalhos.  No entanto, em um contexto mais amplo e comum na academia brasileira, TCC é abreviação para "Trabalho de Conclusão de Curso", que é um trabalho final apresentado por estudantes ao concluir seus cursos. No caso do contexto apresentado, é provável que o TCC seja referência à Monografia ou ao Projeto e da Monografia defendidos pelo aluno perante a Banca Examinadora."
+CL: 4
+
+PE: "2 - Quais são os objetivos da monografia?"
+RE: "Os objetivos gerais da Monografia, segundo o Art. 3º do contexto, são:  * Propiciar aos alunos do Curso de Licenciatura em Computação a oportunidade de demonstrar o grau de habilitação adquirido; * Aprofundamento temático; * Estímulo à produção científica; * Consulta de bibliografia especializada; * Aprimoramento da capacidade de interpretação e crítica; * Possibilidade do aluno desenvolver soluções tecnológicas inovadoras e adaptadas ao contexto do ensino."
+CL: 5
+
+PE: "3 - Quais são as atribuições do coordenador?"
+RE: "Com base no contexto fornecido, podem ser identificadas as seguintes atribuições do Coordenador de POIE:  1. Elaborar o Cronograma de Atividades semestral (Art. 23); 2. Indicar Professor Orientador para os alunos que não encontram um professor disposto a orientá-los (Art. 7º); 3. Observar a distribuição equitativa de orientandos entre os professores (Art. 7º, Parágrafo Único); 4. Resolver casos especiais e, se necessário, encaminhá-los para decisão ao Coordenador do Curso de Licenciatura em Computação (Art. 9º, Parágrafo Único); 5. Fiscalizar a frequência dos alunos nos encontros com a Coordenação e nas reuniões de orientação (Art. 13, VIII); 6. Fixar prazos para a entrega das Monografias e Projetos, designar as Bancas Examinadoras e as datas e horários de realização das Defesas Públicas (Art. 23)."
+CL: 3
+
+PE: "4 - O que o aluno deve fazer se não encontrar um orientador?"
+RE: "Segundo o Art. 7º, caso o aluno não encontre nenhum professor que aceite assumir a sua orientação, ele deve procurar o Coordenador de POIE, para que este lhe indique um Professor Orientador."
+CL: 5
+
+PE: "5 - Quem deve escrever a monografia?"
+RE: "De acordo com o contexto, a pergunta não está correta. A monografia é um trabalho que os alunos do Curso de Licenciatura em Computação devem realizar, não alguém que deve escrever. O aluno do curso é quem desenvolve e defende a monografia perante a Banca Examinadora."
+CL: 4
+
+PE: "6 - Quanto o aluno deve tirar para ser aprovado no TCC?"
+RE: "Para calcular a nota mínima necessária para aprovação, precisamos somar os pesos das avaliações previstas (art. 28): 20% + 60% = 80%.  Portanto, a nota mínima necessária para aprovação é de 80%."
+CL: 1
+
+PE: "7 - O aluno que tirar nota 7 está aprovado?"
+RE: "Sim, o aluno que tirar nota 7 está aprovado. Isso porque, segundo o Art. 29, § 2o, é considerado aprovado no componente curricular o aluno que obtiver média igual ou superior a 6,0 (seis) nas notas individuais atribuídas pela Banca Examinadora. E 7 é maior do que 6, portanto, está dentro do critério de aprovação estabelecido."
+CL: 5
+
+PE: "8 - Quantos orientandos cada orientador pode ter?"
+RE: "De acordo com o Art. 8º, cada professor pode orientar no máximo 08 (oito) alunos por semestre."
+CL: 5
+
+==============================gemma3:4b==============================
+
+PE: "1 - O que significa TCC?"
+RE: "O texto apresentado trata de um regulamento acadêmico, provavelmente de uma universidade. A sigla TCC não aparece explicitamente no texto. No entanto, dentro do contexto de um curso de Licenciatura em Computação, TCC significa **Trabalho de Conclusão de Curso**. É o trabalho que o aluno deve desenvolver e apresentar para obter o título de bacharel."
+CL: 5
+
+PE: "2 - Quais são os objetivos da monografia?"
+RE: "De acordo com o texto, os objetivos da Monografia são:  *   Propiciar aos alunos do Curso de Licenciatura em Computação a oportunidade de demonstrar o grau de habilitação adquirido. *   Aprofundamento temático. *   Estímulo à produção científica. *   Incentivar a consulta de bibliografia especializada. *   Aprimorar a capacidade de interpretação e crítica. *   Possibilitar o desenvolvimento de soluções tecnológicas inovadoras e adaptadas ao contexto do ensino."
+CL: 5
+
+PE: "3 - Quais são as atribuições do coordenador?"
+RE: "Com base no texto fornecido, as atribuições do coordenador são as seguintes:  *   **Coordenador de POIE:**     *   Elaborar o Cronograma de Atividades semestral, fixando prazos para a entrega de projetos e monografias, designando as bancas examinadoras e as datas e horários das defesas públicas.     *   Indicar um Professor Orientador para o aluno que não encontrar um professor disposto a orientá-lo. Ao indicar o orientador, deve considerar o projeto de pesquisa e a distribuição de acordo com as áreas de interesse dos professores, buscando uma distribuição equitativa de orientandos.     *   Compor-se com o coordenador do curso de Licenciatura em Computação para elaborar o Cronograma de Atividades.     *   Tem 4 horas semanais referentes ao componente curricular POIE.  *   **Coordenador do Curso de Licenciatura em Computação:**     *   Indicar um Coordenador de POIE.  Em resumo, o coordenador tem o papel de garantir o andamento do projeto POIE, nomeando orientadores e supervisionando o cumprimento das atividades pelos alunos."
+CL: 3
+
+PE: "4 - O que o aluno deve fazer se não encontrar um orientador?"
+RE: "De acordo com o Art. 7º do regulamento, se o aluno não encontrar nenhum professor que aceite assumir a sua orientação, ele deve procurar o Coordenador de POIE (Programa de Orientação em Informática) a fim de que este lhe indique um Professor Orientador."
+CL: 5
+
+PE: "5 - Quem deve escrever a monografia?"
+RE: "De acordo com o texto, a monografia deve ser escrita pelos alunos do Curso de Licenciatura em Computação."
+CL: 5
+
+PE: "6 - Quanto o aluno deve tirar para ser aprovado no TCC?"
+RE: "A pergunta sobre TCC (Trabalho de Conclusão de Curso) não está presente no texto fornecido. O texto trata do POIE (Projeto de Pesquisa Orientada em Investigação), que é uma pesquisa individual orientada.  Para saber a nota mínima para aprovação no POIE, o texto indica que o aluno deve atingir pelo menos 60% na monografia/projeto de pesquisa e 20% na apresentação oral, totalizando 80%."
+CL: 3
+
+PE: "7 - O aluno que tirar nota 7 está aprovado?"
+RE: "Sim, o aluno que tirar nota 7 está aprovado.  O Art. 29 do regulamento estabelece que para ser considerado aprovado no componente curricular, o aluno precisa de uma média igual ou superior a 6,0 (seis) nas notas individuais atribuídas pelos membros da banca examinadora. Uma nota de 7 já garante essa média."
+CL: 5
+
+PE: "8 - Quantos orientandos cada orientador pode ter?"
+RE: "De acordo com o texto, cada professor pode orientar no máximo 08 (oito) alunos por semestre."
+CL: 5
+
+==============================deepseek-r1:14b==============================
+
+PE: "1 - O que significa TCC?"
+RE: "No contexto fornecido, "TCC" refere-se a "Trabalho de Conclusão de Curso". Este é um projeto ou dissertação que o aluno deve desenvolver e defender perante uma banca examinadora, conforme descrito nos artigos 19 e seguintes."
+CL: 3
+
+PE: "2 - Quais são os objetivos da monografia?"
+RE: "Os objetivos da monografia, conforme descritos no contexto fornecido, são:  1. **Demonstrar o grau de habilitação adquirido**: A monografia serve para que os alunos mostrem o que aprenderam ao longo do curso.  2. **Aprofundamento temático**: Permitem aos alunos se dedicarem a um tópico em profundidade, melhorando suas habilidades de pesquisa e análise.  3. **Incentivar a produção científica**: Visa incentivar os alunos a desenvolverem conteúdo novo ou inovador, contribuindo para a área.  4. **Consulta de bibliografia especializada**: Os alunos devem pesquisar fontes específicas e atualizadas, melhorando suas habilidades em pesquisa.  5. **Aprimorar a capacidade de interpretação e crítica**: Além de apresentar informações, os alunos devem ser capazes de analisar e questionar as fontes usadas.  6. **Desenvolver soluções tecnológicas inovadoras adaptadas ao contexto do ensino**: Os alunos criam projetos ou sistemas que possam ser aplicados na educação, especialmente no âmbito da Computação.  Esses objetivos estão alinhados com os princípios do curso de Licenciatura em Computação e buscam preparar os alunos para desafios futuros."
+CL: 5
+
+PE: "3 - Quais são as atribuições do coordenador?"
+RE: "O cargo em questão no contexto fornecido é **Coordenador de POIE**. Esse coordenador tem a responsabilidade de:  1. **Indicar Professor Orientador**: Quando um aluno não encontra professor para orientação, o Coordenador de POIE o indica, considerando os interesses dos professores e distribuição equitativa de orientandos.     2. **Resolução de Casos Especiais**: O coordenador pode solucionar casos especiais relacionados à orientação e, se necessário, encaminhar para o Coordenador do Curso.  3. **Organização de Cronograma**: Junto com o Coordenador do Curso, elabora um cronograma fixando prazos para entregas, datas de defesas e designando bancas examinadoras.  4. **Coordenação das Atividades**: Coordena as atividades relacionadas ao componente curricular POIE, incluindo a orientação dos alunos e a organização das defesas públicas.  Portanto, o cargo é de **Coordenador de POIE**, responsável por coordenar as atividades do componente curricular POIE na instituição."
+CL: 3
+
+PE: "4 - O que o aluno deve fazer se não encontrar um orientador?"
+RE: "Se o aluno não encontrar nenhum professor que aceite assumir sua orientação, ele deve procurar o Coordenador de POIE. Este coordenador indicará um Professor Orientador, considerando o Projeto de Pesquisa e a distribuição equitativa de orientandos entre os professores.  **Resposta:**   O aluno deve procurar o Coordenador de POIE para que ele indique um Professor Orientador, levando em consideração o Projeto de Pesquisa e a distribuição equitativa de orientandos."
+CL: 5
+
+PE: "5 - Quem deve escrever a monografia?"
+RE: "De acordo com o contexto fornecido:  - **Responsável pela escrita da monografia**: O aluno do Curso de Licenciatura em Computação é quem deve escrever a monografia. Isso está alinhado com os objetivos descritos no Artigo 3º, que enfatizam a demonstração das habilidades adquiridas pelo aluno e o desenvolvimento de soluções tecnológicas inovadoras.  Portanto, **o aluno** é quem deve escrever a monografia."
+CL: 5
+
+PE: "6 - Quanto o aluno deve tirar para ser aprovado no TCC?"
+RE: "Para aprovação no TCC (Trabalho de Conclusão de Curso) no contexto descrito, o aluno deve obter uma pontuação total que resulte em pelo menos 50% da nota total, ou seja, 50 pontos. No entanto, é possível que cada componente (Seminário, Texto e Apresentação Oral) precise ser aprovado individualmente, com as seguintes notas mínimas:  - **Texto (Monografia)**: 60% (36 pontos) - **Seminário de Andamento**: 50% (10 pontos) - **Apresentação Oral**: 50% (10 pontos)  Portanto, o aluno deve alcançar no mínimo 36 pontos na monografia/texto para ser aprovado nesse componente, bem como cumprir as exigências dos outros dois componentes."
+CL: 1
+
+PE: "7 - O aluno que tirar nota 7 está aprovado?"
+RE: "Sim, de acordo com o Art. 29, §2º, o aluno estará aprovado se obtiver média igual ou superior a 6,0 nas notas individuais atribuídas. Como a nota 7 é superior a 6,0, o aluno está aprovado."
+CL: 5
+
+PE: "8 - Quantos orientandos cada orientador pode ter?"
+RE: "Cada orientador pode ter no máximo oito alunos por semestre."
+CL: 5
+
+==============================deepseek-r1:7b==============================
+
+PE: "1 - O que significa TCC?"
+RE: "TCC, according to the provided context, stands for **Teses de conclusão de curso**, which translates to "Final Thesis Defense." It refers to the process where students defend their final project (Art. 19) and thesis (Art. 32). The defense occurs before a committee of examiners, including the course supervisor as the president and two other designated members. Additionally, under specific conditions, such as publishing in a journal with Qualis B, the student may substitute POIE I and II for TCC."
+CL: 1
+
+PE: "2 - Quais são os objetivos da monografia?"
+RE: "Os objetivos da monografia são:  1. Propiciar ao aluno uma oportunidade para demonstrar o grau de habilitação adquirido. 2. Promover o aprofundamento em tema específico. 3. Capacitar ao aluno para a produ玢o científica. 4. Encorajar o consulta de bibliografia especializada. 5. Desenvolver a capacidade de interpretação e critica. 6. subsidiariamente, desenvolver soluções tecnológicas inovadoras adaptadas ao contexto do ensino."
+CL: 4
+
+PE: "3 - Quais são as atribuições do coordenador?"
+RE: "O coordenador de POIE assume as seguintes atribuições:  1. ** allotment of Supervisors**: Atualizar e manter a lista de orientadores para auxiliar os alunos quando não encontrarem um professor apto, conforme mencionado no Art. 7.  2. ** Assignment Support**: Facilitar a allotment de orientadores para os alunos que não podem encontrar um professor willing, possivelmente encaminhando as solicitações para os relevantes profesores.  3. **Scheduling Coordination**: Assistir à criação do Cronograma de Atividades semestral, fixando prazos para a entrega das Monografias e Projetos, assim como asignar as Banças Examinadoras e determinar as datas e horários de defesas públicas (Art. 23).  4. **Compliance Assurance**: Garantir que os prazos estabelecidos no Cronograma sejam observes, especialmente em caso de envios da Monografia fora do prazo, mantendo observado os prazos e as penalidades associadas (Art.10 e 14).  Estas atribuições permitem que o coordenador de POIE played um papel crucial na orientação dos alunos, na allotment de recursos humanos e na coordenação de atividades acadêmicas."
+CL: 3
+
+PE: "4 - O que o aluno deve fazer se não encontrar um orientador?"
+RE: "Se o aluno não encontrar nenhum professor que deseje orientá-lo, ele deve seguir os seguintes passos:  1. **Procurar o Coordenador de POIE**: O aluno deve buscar para o Coordenador de Pesquisa Operacional e Inovação (POIE) e pedir que lhe indique um Professor Orientador apropriado. O Coordenador de POIE deve considerar a distribuição de orientadores entre os alunos de acordo com as suas características e a demanda de cada professor.  2. **Ter em conta a regra de 8 orientadores por professor**: Se o aluno não encontrar um orientador, pode optar por um co-orientador externo ou participar de uma projeto orientado por outro professor, desde que este não tenha已经达到 o limitante de 8 alunos por semestre.  3. **Utilizar as instruções do curso**: O aluno deve seguir as instruções fornecidas pelo Professor de Metodologia da Pesquisa e cumprir os requisitos estabelecidos pelo Regulamento do Programa.  4. **Consultar o Coordenador de POIE**: Caso haja necessidade, o aluno pode pedir que o Professor de Metodologia da Pesquisa verifique se o orientador está Disponível para orientar ele.  Em resumo, o aluno deve buscar orientadores no Coordenador de POIE ou optar por um orientador externo, sempre tendo em conta os limites estabelecidos pelo Regulamento."
+CL: 3
+
+PE: "5 - Quem deve escrever a monografia?"
+RE: "O aluno que cursa o Curso de Licenciatura em Computação é o responsável por Escrever a Monografia. Isso ocorre devido às obje ctivas estabelecidas no Art. 3°, que destaca a necessidade de os alunos demonstrate suas habilidades e habilidades de trabalho, entre outros. Além disso, as lateras Articles, como o Art. 19 e Art. 24, confirmam que o aluno é o responsável por apresentar e developed their work, reforçando a ideia de que ele é aquele que escreve a Monografia.  Resposta:  O **aluno** que cursa o Curso de Licenciatura em Computação é o responsável por Escrever a Monografia."
+CL: 4
+
+PE: "6 - Quanto o aluno deve tirar para ser aprovado no TCC?"
+RE: "Para ser aprovado em TCC, o aluno pode optar por um dos seguintes caminhos:  1. **Passar o POIE**:      - Apresentar e defensar seu projeto, tendo feito as arguições e respostas adequadas.      - Ter uma weighed average das notas de três provas (Prova1, Prova2 e Prova3), cada uma worth 20%. A soma das notas deve ser pelo menos 60% para aprovação.  2. **Passar somente a Pergunto**:      - Se suas notas forem suficientes, pode ser aprovado sem a presentation, sem necessidade de passar as provas.  Portanto, o aluno precisa alcançar um mínimo de 60% nas suas três provas ou alcançar notas suficientes na Pergunto para optar pelo segundo caminho."
+CL: 1
+
+PE: "7 - O aluno que tirar nota 7 está aprovado?"
+RE: "Sim, o aluno que obteve nota 7 está aprovado. De acordo com o regulamento estabelecido, a aprovação no componente curricular é determinada pela media das notas da Banca Examinadora e do Professor Orientador. Como a nota final de 7 excede o valor mínimo exigente de 6, o aluno satisfaz as condições para aprovação."
+CL: 5
+
+PE: "8 - Quantos orientandos cada orientador pode ter?"
+RE: "Cada Orientador pode orientar no máximo **08 (oito) alunos por semestre**."
+CL: 5
+
+==============================deepseek-r1:8b==============================
+PE: "1 - O que significa TCC?"
+RE: "No contexto fornecido, **TCC** refere-se à Defesa Pública do aluno perante a Banca Examinadora. Trata-se da apresentação pública da versão final de seu projeto ou monografia, com a avaliação dos membros da banca responsáveis por julgar e aprovar o trabalho acadêmico."
+CL: 1
+
+PE: "2 - Quais são os objetivos da monografia?"
+RE: "Os objetivos da monografia são:  1. Propiciar aos alunos oportunidade para demonstrar o grau de habilitação adquirido; 2. Profundizar um tema específico; 3. Estimular a produção científica; 4. Promover o uso de fontes especializadas; 5. Melhorar as habilidades de interpretação e crítica; 6. Permitir o desenvolvimento de soluções tecnológicas inovadoras adaptadas ao contexto do ensino.  Esses objetivos são listados no Artigo 3º do contexto fornecido, com a finalidade de ajudar os alunos a exibirem seu conhecimento, incentivar a criatividade e aprofundar suas habilidades em various aspectos."
+CL: 5
+
+PE: "3 - Quais são as atribuições do coordenador?"
+RE: "As atribuições do coordenador do Projeto de Orientação em Informática na Educação (POIE) são as seguintes:  1. **Aprovar ou negar pedidos de troca de orientador**: De acordo com o Artigo 9º, é competência do coordenador homologar os requerimentos para a mudança de professor.  2. **Resolução de casos especiais e encaminhamento para decisão**: O coordenador tem a responsabilidade de resolver questões únicas e enviar os casos mais complexos para o Coordenador do Curso, conforme mencionado no Artigo 13.  3. **Indicação de professores orientadores**: Se um aluno não encontrar um professor interessado em orientá-lo, ele deve procurar o coordenador do POIE, que indicará um professor compatível, considerando a distribuição equitativa e as áreas de interesse dos docentes (Parágrafo Único do Artigo 7º).  4. **Gestão administrativa**: O coordenador é responsável por protocolar documentos na Coordenação e arquivar os formulários necessários, como as folhas de encaminhamento e autorização para publicação.  5. **Coordinação das atividades do POIE**: Ele participa da elaboração do Cronograma de Atividades junto com o Coordenador do Curso, estabelecendo prazos e datas para entregas (Artigo 23).  6. **Monitoramento da frequência dos alunos**: O coordenador calcula a frequência dos orientandos nas reuniões e encontros com a Coordenação. Alunos que não atingirem 75% de freqüência na orientação são automaticamente reprovados (Parágrafo Único do Artigo 13).  7. **Gerenciamento de prazos e penalidades**: Ele coordina o cumprimento dos prazos mencionados no Artigo 14, incluindo a protocolização de justificativas por entregas fora do prazo.  8. **Participação em decisões sobre normas e regulamentos**: O coordenador contribui para a definição das instruções de orientação e as normas necessárias para os alunos, garantindo que o Regulamento seja aplicado adequadamente.  Essas atribuições são essenciais para o funcionamento do componente curricular POIE e para garantir que todos os alunos tenham acesso a uma orientação adequada e sejam acompanhados nos estágios de seu trabalho acadêmico."
+CL: 3
+
+PE: "4 - O que o aluno deve fazer se não encontrar um orientador?"
+RE: "Se não encontrar um orientador, o aluno deve proceder da seguinte maneira:  1. **Procurar o Coordenador de POIE**: Deverá enviar um requerimento ou se dirigir ao Coordenador responsável pelo programa POIE para solicitar ajuda na indicação de um Professor Orientador.  2. **Aceitação do Professor-Orientador Indicado**: Após a indicação, o aluno aceitará o Professor Orientador designado, independentemente da área de concentração ou preferências iniciais, desde que ele possua a expertise necessária para supervisionar o projeto.  3. **Cumprimento das Normas Internas**: O aluno garantirá que o trabalho será desenvolvido de acordo com as normas específicas do CESIT/UEA e que a carga horária atribuída à orientação será computada corretamente no Plano de Trabalho do Professor.  4. **Possível Co-Orientação**: Caso seja aceito um co-orientador, ele pode colaborar na supervisão do projeto, podendo ser externo ou da própria UEA.  **Resposta Final:** O aluno deve procurar o Coordenador de POIE para que este lhe indique um Professor Orientador apropriado, assegurando-se de seguir as normas e instruções estabelecidas pelo programa."
+CL: 3
+
+PE: "5 - Quem deve escrever a monografia?"
+RE: "Quem deve escribir la monografía es el propio alumno del Curso de Licenciatura en Computación. A monografia es una tarefa encomendada pelo aluno para demostrar su grau de habilitación, aprofundamento temático y otras habilidades académicas y tecnológicas."
+CL: 0
+
+PE: "6 - Quanto o aluno deve tirar para ser aprovado no TCC?"
+RE: "Para obter a aprovação no TCC (Trabalho de Conclusão de Curso), o aluno deve obturar um mínimo de 42 pontos na monografia e 14 pontos na apresentação oral, resultando em uma pontuação total de 56%. No entanto, isso depende das normas específicas da instituição.  Resposta final: O aluno deve obter pelo menos 42 pontos na monografia (60%) e 14 pontos na apresentação oral (20%), somando a um total de 56 pontos, para ser aprovado."
+CL: 1
+
+PE: "7 - O aluno que tirar nota 7 está aprovado?"
+RE: "Não. A nota final é calculada como a média das avaliações dos membros da banca e do professor orientador. Para ser considerado aprovado, o aluno precisa obter uma média igual ou superior a 6,0. Portanto, um aluno que obtenha nota 7 não está aprovado.  Resposta: O aluno que tirar nota 7 não está aprovado."
+CL: 1
+
+PE: "8 - Quantos orientandos cada orientador pode ter?"
+RE: "Cada Professor Orientador pode orientar no máximo **08 (oito)** alunos por semestre, conforme determinado pelo Artigo 8º do regulamento.  **Resposta:** oxed{8}"
+CL: 5
+

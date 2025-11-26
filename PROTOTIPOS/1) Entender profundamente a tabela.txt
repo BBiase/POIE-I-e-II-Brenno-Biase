@@ -1,0 +1,46 @@
+1) Entender profundamente a tabela (o que cada informação significa)
+2) ICL:
+2.a) Apenas um modelo ficou abaixo do baseline (faiss): DeepSeek-r1:7b
+2.b) Destacaram-se phi4:14b (facebook?) e gemma3:12b (ambos de "tamanho médio") - melhor eficácia, porém, tempos de resposta ruins (sem thinking)
+2.c) Desempenhos razoáveis (lamma3 e mistral) - mais eficientes?
+2.d) Pergunta 8 (conferir qual é) foi a mais desafiadora - tentar encontrar causas
+2.e) Pergunta 3 também desafiadora (menos que a 8)
+2.f) Perguntas 5 e 6 mais fáceis (tentar entender)
+2.g) Pergunta 7 mal formulada (aprimoramento do regimento)
+3) RAG:
+3.a) DeepSeek-r1:7b continuou sendo o pior (pior até que o FAISS)
+3.b) Phi4 e gemma3 continuam entre os melhores, com tempos menores, mas ainda altos
+3.c) Mistral passou a figurar entre melhores e com melhor tempo de resposta
+3.d) Gemma3 (PEQUENO) passou também a figurar entre os melhores com tempo aceitável
+3.e) Lamma3: permaneceu com bom resultado, mas não o melhor
+3.f) Pergunta 8 (anteriormente a mais desafiadora) foi a mais fácil
+3.g) Pergunta 6 (anteriormente a mais fácil) foi a mais difícil
+3.h) 7 das 8 perguntas tiveram taxa de resposta ótima igual ou maior
+
+
+-------------------------
+
+Permitir que os avanços também alcancem contextos educacionais com menos recursos (iniciativas livres? - podendo ele usar com a infra já existente)
+Acoplar tecnologia a plataformas educacionais (como o caso do Prof. João) - correção de avaliações por exemplo
+
+------------------------
+
+2) ICL:
+2.a) Apenas um modelo ficou abaixo do baseline (faiss): DeepSeek-r1:7b
+2.b) Destacaram-se phi4:14b (facebook?) e gemma3:12b (ambos de "tamanho médio") - melhor eficácia, porém, tempos de resposta ruins (sem thinking)
+2.c) Desempenhos razoáveis (lamma3 e mistral) - mais eficientes?
+2.d) Pergunta 8 (conferir qual é) foi a mais desafiadora - tentar encontrar causas
+2.e) Pergunta 3 também desafiadora (menos que a 8)
+2.f) Perguntas 5 e 6 mais fáceis (tentar entender)
+2.g) Pergunta 7 mal formulada (aprimoramento do regimento)
+3) RAG:
+3.a) DeepSeek-r1:7b continuou sendo o pior (pior até que o FAISS)
+3.b) Phi4 e gemma3 continuam entre os melhores, com tempos menores, mas ainda altos
+3.c) Mistral passou a figurar entre melhores e com melhor tempo de resposta
+3.d) Gemma3 (PEQUENO) passou também a figurar entre os melhores com tempo aceitável
+3.e) Lamma3: permaneceu com bom resultado, mas não o melhor
+3.f) Pergunta 8 (anteriormente a mais desafiadora) foi a mais fácil
+3.g) Pergunta 6 (anteriormente a mais fácil) foi a mais difícil
+3.h) 7 das 8 perguntas tiveram taxa de resposta ótima igual ou maior
+
+
