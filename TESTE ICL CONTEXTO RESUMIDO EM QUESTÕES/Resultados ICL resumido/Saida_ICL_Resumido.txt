@@ -1,0 +1,396 @@
+==============================gemma3:4b==============================
+TC:6.1764562129974365
+PE:1-O que significa TCC?
+TR:39.05249619483948
+RE:TCC significa Trabalho de Conclusão de Curso.
+CL:5
+
+TC:6.1764562129974365
+PE:2-Quais são os objetivos da monografia?
+TR:58.65686845779419
+RE:De acordo com o contexto fornecido, a monografia tem as seguintes finalidades:  *   **Demonstrar habilitação do aluno:** Avaliar o conhecimento e as competências adquiridas. *   **Aprofundamento temático:** Explorar um tema da computação aplicada à educação em profundidade. *   **Estímulo à produção científica:** Incentivar a pesquisa e a elaboração de trabalhos com potencial de contribuição para a área. *   **Uso de bibliografia especializada:** Utilizar fontes relevantes e atualizadas na pesquisa. *   **Desenvolvimento de soluções tecnológicas aplicadas ao ensino:** Criar ou propor soluções tecnológicas relacionadas à educação.
+CL:5
+
+TC:6.1764562129974365
+PE:3-Quais são as atribuições do coordenador?
+TR:48.28397822380066
+RE:As atribuições do coordenador do POIE incluem: atender alunos, orientar com apoio dos orientadores, publicar lista de orientadores, elaborar cronogramas, receber projetos e monografias, coordenar bancas e efetivar notas. Além disso, ele, junto com o coordenador do curso, define o cronograma de atividades.
+CL:5
+
+TC:6.1764562129974365
+PE:4-O que o aluno deve fazer se não encontrar um orientador?
+TR:45.06150007247925
+RE:Se o aluno não encontrar um orientador, ele deve procurar o Coordenador do POIE, que indicará um orientador, observando a área do projeto e a distribuição equilibrada de orientandos.
+CL:5
+
+TC:6.1764562129974365
+PE:5-Quem deve escrever a monografia?
+TR:39.71338367462158
+RE:O aluno deve escrever a monografia.
+CL:5
+
+TC:6.1764562129974365
+PE:6-Quanto o aluno deve tirar para ser aprovado no TCC?
+TR:42.694984912872314
+RE:Para ser aprovado no TCC, o aluno deve obter uma média final igual a 6,0 ou superior.
+CL:5
+
+TC:6.1764562129974365
+PE:7-O aluno que tirar nota 7 está aprovado?
+TR:42.73991537094116
+RE:Não, o aluno que tirar nota 7 não está aprovado. Para ser aprovado no POIE, o aluno precisa obter uma média final igual a 6,0 ou superior.
+CL:1
+
+TC:6.1764562129974365
+PE:8-Quantos orientandos cada orientador pode ter?
+TR:41.33108568191528
+RE:Cada professor orientador pode ter no máximo 8 alunos por semestre.
+CL:5
+
+==============================mistral:7b==============================
+
+TC:12.363980531692505
+PE:1-O que significa TCC?
+TR:147.08350563049316
+RE:1- O TCC (Trabalho de Conclusão de Curso) é a pesquisa individual realizada por um estudante no final de seu curso de graduação, na qual ele demonstra sua habilidade e conhecimento profundo sobre um determinado assunto. Neste caso específico, o TCC é executado através das disciplinas chamadas POIE I e II (Projeto de Orientação Individual em Ensino).
+CL:5
+
+TC:12.363980531692505
+PE:2-Quais são os objetivos da monografia?
+TR:19.525627374649048
+RE: Os objetivos da Monografia na perspectiva do POIE (Projeto e Orientação Individual em Ensino) são: demonstrar habilitação do aluno, aprofundamento temático, estímulo à produção científica, uso de bibliografia especializada e desenvolvimento de soluções tecnológicas aplicadas ao ensino.
+CL:5
+
+TC:12.363980531692505
+PE:3-Quais são as atribuições do coordenador?
+TR:27.67727255821228
+RE:1. Atender alunos; 2. Orientar com apoio dos orientadores; 3. Publicar lista de orientadores; 4. Elaborar cronogramas; 5. Receber projetos e monografias; 6. Coordenação de bancas e efetivar notas; 7. Outras responsabilidades e deveres, conforme necessário.  Lembrando que estas atribuições são referentes ao componente curricular POIE.
+CL:5
+
+TC:12.363980531692505
+PE:4-O que o aluno deve fazer se não encontrar um orientador?
+TR:14.085183143615723
+RE: Se o aluno não encontrar um orientador, ele deve procurar o Coordenador do POIE. O Coordendor indicará um orientador observando a área do projeto e distribuição equilibrada de orientandos.
+CL:5
+
+TC:12.363980531692505
+PE:5-Quem deve escrever a monografia?
+TR:135.8370304107666
+RE: O aluno deve escrever a monografia, sem prejuízo das atribuições do Professor Orientador.
+CL:5
+
+TC:12.363980531692505
+PE:6-Quanto o aluno deve tirar para ser aprovado no TCC?
+TR:141.8017647266388
+RE:6-O aluno deve obter média final igual a 6,0 ou superior para ser aprovado no TCC (Trabalho de Conclusão de Curso), que é executado por meio das disciplinas chamadas POIE I e II.
+CL:5
+
+TC:12.363980531692505
+PE:7-O aluno que tirar nota 7 está aprovado?
+TR:11.10189151763916
+RE: Sim, o aluno que obtém nota 7 está aprovado no POIE, pois precisa obter média final igual a 6,0 ou superior para ser aprovado.
+CL:5
+
+TC:12.363980531692505
+PE:8-Quantos orientandos cada orientador pode ter?
+TR:4.123929500579834
+RE: No máximo 8 alunos por semestre.
+CL:5
+
+==============================gemma3:12b==============================
+
+TC:15.100726842880249
+PE:1-O que significa TCC?
+TR:149.26753187179565
+RE:De acordo com o texto, TCC significa **Trabalho de Conclusão de Curso**. O POIE (Projeto e Monografia) é a forma como o TCC é executado no curso de Licenciatura em Computação.
+CL:5
+
+TC:15.100726842880249
+PE:2-Quais são os objetivos da monografia?
+TR:158.64309573173523
+RE:De acordo com o texto, a finalidade da monografia (dentro do POIE) é:  *   Demonstrar habilitação do aluno. *   Aprofundamento temático. *   Estímulo à produção científica. *   Uso de bibliografia especializada. *   Desenvolvimento de soluções tecnológicas aplicadas ao ensino.
+CL:5
+
+TC:15.100726842880249
+PE:3-Quais são as atribuições do coordenador?
+TR:193.57937502861023
+RE:De acordo com o texto, as principais atribuições do Coordenador do POIE incluem:  *   Atender alunos. *   Orientar com apoio dos orientadores. *   Publicar lista de orientadores. *   Elaborar cronogramas. *   Receber projetos e monografias. *   Coordenar bancas e efetuar notas. *   Indicar um orientador caso o aluno não seja aceito por nenhum professor. *   Definir o cronograma de atividades, junto com o Coordenador do Curso. *   Decidir sobre pedidos não previstos no regulamento, em conjunto com o Colegiado do Curso.
+CL:5
+
+TC:15.100726842880249
+PE:4-O que o aluno deve fazer se não encontrar um orientador?
+TR:153.3050181865692
+RE:Se o aluno não conseguir encontrar um orientador, ele deve procurar o Coordenador do POIE, que indicará um orientador, levando em consideração a área do projeto e uma distribuição equilibrada de orientandos.
+CL:5
+
+TC:15.100726842880249
+PE:5-Quem deve escrever a monografia?
+TR:141.00779390335083
+RE:O aluno deve escrever a monografia, sem prejuízo das atribuições do Professor Orientador.
+CL:5
+
+TC:15.100726842880249
+PE:6-Quanto o aluno deve tirar para ser aprovado no TCC?
+TR:154.30099272727966
+RE:Para ser aprovado no TCC (que é realizado através das disciplinas POIE I e II), o aluno deve obter uma média final igual a **6,0 ou superior**. Se a média estiver entre 4,0 e 6,0, o aluno deverá realizar correções e passar por uma nova avaliação.
+CL:5
+
+TC:15.100726842880249
+PE:7-O aluno que tirar nota 7 está aprovado?
+TR:144.06409883499146
+RE:Sim, o aluno está aprovado se obtiver uma média final igual ou superior a 6,0. Uma nota 7 já está dentro desse critério.
+CL:5
+
+TC:15.100726842880249
+PE:8-Quantos orientandos cada orientador pode ter?
+TR:141.82537579536438
+RE:Cada professor orientador pode ter, no máximo, 8 alunos por semestre.
+CL:5
+
+==============================phi4:14b==============================
+
+TC:28.73555326461792
+PE:1-O que significa TCC?
+TR:221.3679976463318
+RE:TCC significa "Trabalho de Conclusão de Curso". No contexto do curso de Licenciatura em Computação, o TCC é executado através das disciplinas denominadas POIE I e POIE II. Essas disciplinas envolvem a pesquisa individual orientada sobre um tema da computação aplicada à educação, culminando na elaboração e defesa de uma monografia.
+CL:5
+
+TC:28.73555326461792
+PE:2-Quais são os objetivos da monografia?
+TR:135.73450374603271
+RE:Os objetivos da monografia no contexto do POIE (Pesquisa Orientada Individuada em Educação) são:  1. **Demonstrar habilitação do aluno**: Avaliar a capacidade do estudante de desenvolver uma pesquisa individualizada, aplicando conhecimentos adquiridos durante o curso.  2. **Aprofundamento temático**: Permitir que o aluno explore e investigue profundamente um tema específico da computação aplicada à educação, promovendo um entendimento mais aprofundado do assunto.  3. **Estímulo à produção científica**: Incentivar os alunos a participar ativamente na criação de conhecimento, fomentando o interesse pela pesquisa e publicações acadêmicas.  4. **Uso de bibliografia especializada**: Desenvolver habilidades no uso eficaz da literatura acadêmica relevante para fundamentar a pesquisa e apoiar as conclusões tiradas.  5. **Desenvolvimento de soluções tecnológicas aplicadas ao ensino**: Promover a criação e implementação de soluções inovadoras que possam ser aplicadas na educação, utilizando conhecimentos em computação.  Esses objetivos combinados visam preparar o aluno não apenas para a conclusão do curso, mas também para desafios futuros acadêmicos ou profissionais.
+CL:5
+
+TC:28.73555326461792
+PE:3-Quais são as atribuições do coordenador?
+TR:139.07461881637573
+RE:As principais responsabilidades e deveres do Coordenador do POIE incluem:  1. **Atendimento aos Alunos**: Prestar suporte aos alunos que estão realizando o POIE.  2. **Orientação com Apoio dos Orientadores**: Facilitar a orientação do aluno, apoiando os professores orientadores no processo.  3. **Publicação da Lista de Orientadores**: Divulgar e manter atualizada a lista de professores disponíveis para orientação.  4. **Elaboração de Cronogramas**: Criar cronogramas detalhados para o desenvolvimento das atividades do POIE, em conjunto com o Coordenador do Curso.  5. **Recepção de Projetos e Monografias**: Receber as propostas de projetos no POIE I e as monografias finais no POIE II dos alunos.  6. **Coordenação das Bancas Examinadoras**: Organizar e coordenar a formação das bancas para avaliação do projeto e da defesa final.  7. **Efetivação de Notas**: Proceder à atribuição das notas conforme os critérios estabelecidos, após as avaliações realizadas pelas bancas.  Esses deveres garantem o bom andamento e a qualidade dos trabalhos desenvolvidos pelos alunos no âmbito do POIE.
+CL:5
+
+TC:28.73555326461792
+PE:4-O que o aluno deve fazer se não encontrar um orientador?
+TR:232.21563935279846
+RE:Se o aluno não conseguir encontrar um professor disposto a ser seu orientador para o POIE, ele deve procurar o Coordenador do POIE. O coordenador indicará um orientador de acordo com a área do projeto e garantirá uma distribuição equilibrada dos orientandos entre os professores disponíveis.
+CL:5
+
+TC:28.73555326461792
+PE:5-Quem deve escrever a monografia?
+TR:228.24446272850037
+RE:A responsabilidade pela redação e desenvolvimento da pesquisa no contexto do POIE é do aluno. O aluno deve elaborar o texto da monografia, embora sem prejuízo das atribuições do Professor Orientador, que incluem orientações e avaliações durante o processo de desenvolvimento da pesquisa.
+CL:5
+
+TC:28.73555326461792
+PE:6-Quanto o aluno deve tirar para ser aprovado no TCC?
+TR:82.55193829536438
+RE:Para ser aprovado no Trabalho de Conclusão de Curso (TCC), que é composto pelas disciplinas POIE I e II, o aluno precisa obter uma média final igual ou superior a 6,0. A avaliação do POIE considera três componentes: Seminário de andamento (20%), Texto do projeto/monografia (60%) e Apresentação oral (20%). Se o aluno obtiver uma média entre 4,0 e 6,0, será necessário realizar correções e passar por nova avaliação. Caso a substituição do POIE por um artigo científico publicado ou aceito em veículo com Qualis igual ou superior ao B seja considerada, o aluno deverá atender aos requisitos especificados para essa possibilidade.
+CL:5
+
+TC:28.73555326461792
+PE:7-O aluno que tirar nota 7 está aprovado?
+TR:25.637670516967773
+RE:Sim, o aluno que obtiver uma média final igual ou superior a 6,0 está aprovado. Portanto, se o aluno tira uma nota 7 na sua avaliação final, ele está aprovado no POIE.
+CL:5
+
+TC:28.73555326461792
+PE:8-Quantos orientandos cada orientador pode ter?
+TR:9.569760799407959
+RE:Cada professor orientador pode ter no máximo 8 alunos por semestre.
+CL:5
+
+==============================lamma3==============================
+TC:11.43033742904663
+PE:1-O que significa TCC?
+TR:98.34594750404358
+RE:TCC é sigla para Trabalho de Conclusão de Curso.
+CL:5
+
+TC:11.43033742904663
+PE:2-Quais são os objetivos da monografia?
+TR:18.137406826019287
+RE:Resposta resumida:  Os objetivos da Monografia (POIE) são:  * Demonstrar habilitação do aluno; * Aprofundamento temático; * Estímulo à produção científica; * Uso de bibliografia especializada; * Desenvolvimento de soluções tecnológicas aplicadas ao ensino.
+CL:5
+
+TC:11.43033742904663
+PE:3-Quais são as atribuições do coordenador?
+TR:117.04261136054993
+RE:As principais atribuições do Coordenador do POIE são:  * Atender alunos * Orientar com apoio dos orientadores * Publicar lista de orientadores * Elaborar cronogramas * Receber projetos e monografias * Coordenar bancas e efetivar notas, entre outras.
+CL:5
+
+TC:11.43033742904663
+PE:4-O que o aluno deve fazer se não encontrar um orientador?
+TR:10.430873155593872
+RE:Resposta: O aluno deve procurar o Coordenador do POIE, que indicará um orientador observando área do projeto e distribuição equilibrada de orientandos.
+CL:5
+
+TC:11.43033742904663
+PE:5-Quem deve escrever a monografia?
+TR:13.610845565795898
+RE:Resposta:  O aluno é responsável por escrever a monografia. Embora o Professor Orientador tenha atribuições para orientar e acompanhar o desenvolvimento da pesquisa, o aluno é quem deve redigir o texto final da monografia.
+CL:5
+
+TC:11.43033742904663
+PE:6-Quanto o aluno deve tirar para ser aprovado no TCC?
+TR:15.06424593925476
+RE:A pergunta é: Quanto o aluno deve tirar para ser aprovado no TCC?  Resposta resumida em português:  Para ser aprovado no TCC, o aluno deve obter média final igual a 6,0 ou superior.
+CL:5
+
+TC:11.43033742904663
+PE:7-O aluno que tirar nota 7 está aprovado?
+TR:20.22382926940918
+RE:Resposta resumida:  Não, o aluno que tirar nota 7 não está aprovado. De acordo com o critério de aprovação final, é necessário obter média final igual a 6,0 ou superior para estar aprovado. Portanto, uma nota 7 não atende ao critério e o aluno ainda não está aprovado.
+CL:1
+
+TC:11.43033742904663
+PE:8-Quantos orientandos cada orientador pode ter?
+TR:4.397521734237671
+RE:Segundo o contexto, no máximo 8 alunos por semestre.
+CL:5
+
+==============================deepseek-r1:7b==============================
+
+TC:10.218103885650635
+PE:1-O que significa TCC?
+TR:186.77979683876038
+RE:<think> Okay, the user is asking about what TCC means in the given context. Looking back at the provided information, I see that it's mentioned alongside POIE as part of the graduation requirements for the licenciatura course. The user probably wants a clear explanation to understand how these two components fit together.  I should start by defining TCC, making sure to connect it with POIE since they're both part of the same graduation process. It's important to highlight that TCC stands for Trabalho de Conclusão de curso Completado, which translates to "Graduation Project." This clarifies its role as a significant academic requirement.  Next, I should mention how TCC is structured—students complete two POIE courses (I and II) over the course of their degree. This shows that TCC isn't standalone but builds upon previous work done in POIE I, leading up to an individual project culminating in a monography and presentation.  Also, it's worth noting the importance of completing both parts: students must achieve a certain grade (75% attendance) in POIE II before taking on the final project. This emphasizes the step-by-step nature of the requirements and the effort involved in successfully completing TCC.  Finally, I should ensure that the explanation is concise yet comprehensive, addressing any underlying concerns the user might have about the academic structure or progression towards their degree. </think>  O que significa **TCC**?   No contexto fornecido, **TCC** (Trabalho de Conclusão de Curso Completado) é uma obligação fundamental para os alunos do curso de licenciatura em Computação. Ele se refere ao trabalho final de graduação, que inclui a elaboração de uma pesquisa individual (POIE) e a presentationes das activity results. No regulamento, o aluno deve concluir dois anos de trabalho, conhecido como POIE I (Projeto) e POIE II (Monografia), para cumpre a TCC.  A TCC é fundamental por ser a conclusão principal do curso, onde os alunos demonstram suas habilidades acadêmicas e profesionais.
+CL:4
+
+TC:10.218103885650635
+PE:2-Quais são os objetivos da monografia?
+TR:204.02989315986633
+RE:<think> Ok, preciso responder a pergunta "O que são os objetivos da monografia?" com base no contexto fornecido. Primeiro, leio o contexto para entender as informações relevantes sobre a monografia.  Na seção "Qual é a finalidade da Monografia?", está dito que demonsrootrar habilidades como o aluno, aprofundar em tema, estímulo à produção científica, uso de bibliografia especializada e desenvolvimento de soluções tecnológicas aplicadas ao ensino. Portanto, os objetivos estão relacionados a essas finalidades.  Outra parte menciona que a monografia deve seguir os padrões da ABNT e um modelo formal definido pelo Colegiado do Curso. Isso sugere que um dos objetivos seja atender estes padrões de normação.  Também há pontos sobre a presentation oral durante a defesa, o uso de código e instalarador (quando aplicação web), e a necessidade de frequentar 75% das aulas. Isso implica que um objetivo seja a participação ativa na turma.  Resumo: os objetivos são demonstrations de habilidades, production científica, usage of specialized bibliography, development of technological solutions for education, compliance with academic norms (ABNT), active participation in the course, and presentation skills.  Agora, organized as bullet points para Clarity. </think>  Os objetivos da monografia são:  - **Demонstrar habilidades**: Aprofundar em um tema da computação aplicada à educação e mostrar habilidades como aprodução científica e o uso de bibliografia especializada. - **Produzir soluções tecnológicas**: Desenvolver soluções aplicadas ao ensino, incluindo possíveis sysestemas (instalarador) ou sites (URL). - **Comeret遵循 academic norms**: Seguir os padrões estabelecidos pelo ABNT e o modelo formal do curso. - **Participar ativamente**: Mantenha uma frequência de 75% nas aulas. - **Presentar oralmente**: Apresentar o trabalho com sucesso durante a defesa orçtal - **Avançar em cryptologia**: Ser a primeira autor de um artigo em revista de Qualis ≥ B, permitindo substituir o POIE por publicação científica.
+CL:0
+
+TC:10.218103885650635
+PE:3-Quais são as atribuições do coordenador?
+TR:148.25942826271057
+RE:<think> Okay, I need to answer the question "3- Quais são as atribuições do coordenador?" based on the provided context. First, I'll look through the context to find information related to the Coordinator's responsibilities.  From the context, it mentions that the Coordinator is responsible for several tasks such as attending students, guiding them with support from professors, compiling a list of orientators, creating schedules, managing project and monography assignments, coordinating exam boards, issuing grades, etc. I should list these points clearly in Portuguese, ensuring they are concise and cover all the mentioned duties without going into too much detail.  I also need to make sure that each point is accurate and directly relates to the Coordinator's role as described in the context. It's important to avoid adding information not present in the context to maintain accuracy. </think>  3- As atribuições do coordenador são:   - Atender aos alunos, oferecendo suporte e orientação necessária;   - Organizar e direcionar os projeto e monografia;   - Coordenar a listagem de orientadores e estabelecer cronogramas;   - Receiving e monitorar as atividades dos alunos;   - Participar na defesa de monografias e emitir notas finais.
+CL:4
+
+TC:10.218103885650635
+PE:4-O que o aluno deve fazer se não encontrar um orientador?
+TR:65.4095675945282
+RE:<think> Okay, I need to figure out what the student should do if they can't find an orientation for their POIE project. Let me go through the context provided step by step.  First, looking at the context, under "Quais são as responsabilidades e deveres do Coordenador do POIE?", it says that the Coordinator must assist in finding orientadores. If no orientation accepts to orient the student, the student should contact the POIE's Coordinator. The Coordinator will help find an orientation who is willing and capable.  So, if the student can't find anyone themselves, they just need to reach out to the Coordinator. The Coordinator will then make efforts on their behalf to find someone suitable. They must follow up with the Coordinator within the agreed timeframe, probably following up once a week or as needed until an orientation accepts them.  I don't see any other steps mentioned in the context for this situation, so it seems straightforward: contact the Coordinator to prompt one to be found. </think>  Se o aluno não conseguir encontrar um orientador por si mesmo, ele deve ativar o Coordenador do POIE. O Coordenador será responsável por identificar e associar um orientador Disponível, garantindo que as condições do regulamento sejam cumpridas e que o aluno tenha a oportunidade de avançar com o projeto.
+CL:5
+
+TC:10.218103885650635
+PE:5-Quem deve escrever a monografia?
+TR:69.23496341705322
+RE:<think> Okay, so I need to figure out who is responsible for writing the monography in the context provided. Let me read through the information again to find the relevant part.  Looking at the context, it says that the student is responsible for writing the monography without the professor's direct involvement beyond guidance. Specifically, "O que é o POIE?" mentions that the research is individual and written by the student, supported by special library resources.   There are several sections about roles, including students' responsibilities during POIE, which state: "Os principais deveres do aluno durante o POIE incluem participar de reuniões, manter contato semanal com o orientador, cumprir o cronograma, entregar versões impressas conforme as regras, defender publicamente e manter 75% de frequência."  Additionally, under "Quais são os docentes do POIE?", it's clarified that students are responsible for writing the research. The section also mentions that students should write their own work, and professors evaluate their work but don't write it themselves.  Putting this together, the student is in charge of writing the monography. There's no mention of external co-orientators or collaborative writing beyond the student's contribution. </think>  O aluno é responsável por redigir o texto da monografia sem a interação direta do professor, exceto por orientações e suporte Bibliográfico.
+CL:5
+
+TC:10.218103885650635
+PE:6-Quanto o aluno deve tirar para ser aprovado no TCC?
+TR:109.04693913459778
+RE:<think> Okay, so I need to figure out the answer to the question "6. Quanto o aluno deve tirar para ser aprovado no TCC?" based on the provided context about POIE and related regulations.   First, I'll recall that the TCC (Trabalho de Conclusão de Curso) is completed through two POIE courses: POIE I (Projeto) and POIE II (Monografia). The context mentions evaluation criteria for both projects.  Looking at the POIE II section, it states that the monographic work must be evaluated by a committee consisting of three members. Each examinator assigns a grade based on specific criteria outlined in the regulation.   The final result is determined by the average of these grades. The passing grade is 6.0 or higher to be approved for the TCC. If the average is between 4.0 and 6.0, the student must redo corrections and undergo another evaluation.  Moreover, there's a mention that if the student is first author of an article meeting certain criteria (publicado ou aceito em veículo com Qualis ≥ B), they can substitute the POIE with the publication request. But this part doesn't directly affect the grade required for approval.  So putting it together: To pass the TCC, the student needs to achieve a final average of at least 6.0 from their monographic work (POIE II). If they score between 4.0 and 6.0 initially, they'll have to improve and retake the evaluation. </think>  To be approved for the Trabalho de Conclusão de Curso (TCC), the student must achieve a final average of at least 6.0 from their monographic work (POIE II). If the score falls between 4.0 and 6.0, the student will need to redo corrections and undergo another evaluation.  **Resposta:** Para ser aprovado no TCC, o aluno deve alcançar uma média final de pelo menos 6,0 na avaliação da monografia (POIE II). Se a pontuação estiver entre 4,0 e 6,0, o aluno deverá corrigir as deficiências e submeter-se a nova avaliação.
+CL:5
+
+TC:10.218103885650635
+PE:7-O aluno que tirar nota 7 está aprovado?
+TR:150.58231782913208
+RE:<think> Okay, let me try to figure out what the user is asking here. They've provided a lot of context about the POIE program, which stands for Planejamento Orbital de Investigação Emocional, or something similar in Portuguese. But I know from experience that sometimes contexts are translated inaccurately.  Wait, no, actually, looking at it again, the context seems to be in English. Let me read through the context carefully.  The user provided a detailed context about POIE, including its purpose, components, roles of coordinators and professors, requirements for students, and more. The question they're asking is: "O aluno que tira nota 7 está aprovado?" which translates to "If a student gets a grade of 7, are they approved?"  In the context provided, I need to look for information about how grades translate or what constitutes approval. Scanning through, there's mention of needing an average of 6.0 or above to pass. Also, if someone is between 4.0 and 6.0, they have to redo the evaluation.  So a grade of 7 would be above 6.0, which means it should meet the approval criteria. </think>  Sim, se o aluno tiver nota final igual a 7,0 ou superior, será automaticamente aprovado.
+CL:5
+
+TC:10.218103885650635
+PE:8-Quantos orientandos cada orientador pode ter?
+TR:119.0747582912445
+RE:<think> Okay, Vamos ver. A pergunta é quantos orientandos cada orientador pode ter na contextuação fornecida. Na seção "Quais são as principais responsabilidades e deveres do Coordenador do POIE", menciona que cada professor pode orientar até 8 alunos por semestre. Também, em outra parte, o aluno pode trocar de orientador, mas cada professor tem um máximo de 8 orientandos por período. Portanto, a resposta deve ser que cada orientador pode ter até 8 alunos. </think>  Cada orientador pode orientar, no máximo, **8 alunos** por semestre.
+CL:5
+
+==============================deepseek-r1:8b==============================
+TC:13.236664772033691
+PE:1-O que significa TCC?
+TR:315.40156722068787
+RE:<think> Ok, eu preciso entender o que é o TCC. Antes, li um texto sobre o POIE, que é uma pesquisa individual feita por alunos em cursos de licenciatura. O TCC, pelo que entendi, é relacionado com isso. Mas o que exatamente significa TCC?  Bem, acredito que "TCC" pode ser abreviação para algo como Trabalho de Conclusão de Curso ou Curso Superior. No contexto do POIE, mencionou-se que o TCC é executado por meio de duas disciplinas chamadas POIE I e II. Isso sugere que o TCC é a culminação de um projeto que o aluno desenvolve durante seu curso.  Também vi que o aluno pode substituir o POIE por um artigo científico publicado, desde que seja autor principal de um artigo com qualidade acadêmica adequada. Isso me fez pensar que o TCC não é só uma obrigação administrativa, mas também uma oportunidade para contribuir com a ciência e a educação.  Outros pontos mencionados são as etapas de avaliação, como seminários de andamento, defesas públicas, composição da banca, etc. Isso me faz achar que o TCC é mais do que apenas entregar uma monografia; é um processo envolvente que inclui apresentações, avaliações e possivelmente publicação.  Além disso, as responsabilidades do aluno incluem redigir a monografia, reunir-se com o orientador regularmente, cumprir os cronogramas e apresentar oralmente o trabalho. Isso me faz pensar que o TCC é um projeto integral que reflete conhecimentos adquiridos ao longo do curso.  Portanto, em resumo, o TCC é a conclusão de um projeto acadêmico desenvolvido por alunos de Licenciatura em Computação, envolvendo etapas de pesquisa, análise, desenvolvimento e apresentação pública. Ele serve tanto para demonstrar habilidades academicas quanto para estímulo à produção científica. </think>  TCC significa Trabalho de Conclusão de Curso. No contexto do curso de Licenciatura em Computação, o TCC é um projeto acadêmico desenvolvido pelos alunos, compreendendo etapas como pesquisa individual (POIE I), análise, desenvolvimento e apresentação pública. Ele serve para demonstrar habilidades academicas e estímulo à produção científica, além de ser uma obrigação administrativa crucial no curso.
+CL:5
+
+TC:13.236664772033691
+PE:2-Quais são os objetivos da monografia?
+TR:250.26654958724976
+RE:<think> Ok, vou analisar o contexto fornecido para responder a pergunta sobre os objetivos da monografia no POIE. Primeiro, vejo que o POIE é um projeto acadêmico consistindo em duas etapas: Projeto (POIE I) e Monografia (POIE II). A monografia é uma pesquisa individual orientada relatar um tema de computação aplicado à educação.  No contexto, é mencionado que a finalidade da monografia inclui several objectives. Vou listar os pontos principais:  1. **Demonstrar habilitação do aluno**: Isso me parece significar que o trabalho deve mostrar capacidade acadêmica e habilidades na área.     2. **Aprofundamento temático**: A monografia deve explorar um tema de forma mais深入。     3. **Estímulo à produção científica**: Encorajar a criação de novos conhecimentos ou soluções tecnológicas.     4. **Uso de bibliografia especializada**: O aluno deve utilizar fontes confidenciais e relevantes para o tema.     5. **Desenvolvimento de soluções tecnológicas aplicadas ao ensino**: Isso sugere que a monografia pode envolver projetos práticos ou sistemas educacionais melhorizados.     6. **Publicação das findings**: A monografia parece ser um trabalho que pode ser submetido para publicação, já que é mencionado a folha de autorização de publicação e a necessidade de enviar cópias à biblioteca.     7. **Envolvimento de coorientadores**: O aluno pode contar com auxílio de outros professores, tanto internos quanto externos.     8. **Cumprimento de regulamentos e prazos**: O aluno deve seguir as normas academicas, como a apresentação em seminários e a entrega no prazo estabelecido.  Reunindo esses pontos, os objetivos da monografia são variados e incluem o desenvolvimento de habilidades acadêmicas, aprofundamento de um tema específico, estimulação da produção científica, utilização adequada de fontes, criação de soluções tecnológicas educativas, publicação do trabalho, envolvimento de orientadores e cumprimento de exigências regulamentares. </think>  Os objetivos da monografia no POIE são:  1. **Demonstrar habilitação acadêmica**: Mostrar capacidade do aluno em desenvolver uma pesquisa de qualidade. 2. **Aprofundar um tema específico**: Explore uma área de computação aplicada à educação de maneira detalhada e crítica. 3. **Estimular a produção científica**: Encorajar o aluno a contribuir para o conhecimento na área. 4. **Utilizar uma bibliografia especializada**: Requerer fontes confidenciais e relevantes para sustentar o trabalho. 5. **Desenvolver soluções tecnológicas educativas**: Aplicar tecnologias à melhorar a educação, possivelmente mediante projetos práticos. 6. **Publicar os resultados**: A monografia pode ser submetida para publicação em periódicos ou veículos acadêmicos. 7. **Envolver coorientadores**: Contar com ajuda de professores tanto internos quanto externos à universidade. 8. **Cumprir regulamentos e prazos**: Satisfazer as exigências academicas, como apresentações periodicas e entrega timely.  Esses objetivos promovem o aprofundamento do aluno, envolvimento de recursos humanos e a criação de trabalhos que possam contribuir para a academia ou à sociedade.
+CL:4
+
+TC:13.236664772033691
+PE:3-Quais são as atribuições do coordenador?
+TR:273.3878254890442
+RE:<think> Ok, eu preciso responder sobre as atribuições do coordenador do POIE. Primeiro, vou revisar o contexto fornecido para entender os detalhes relacionados ao papel desse coordenador.  No contexto, menciona-se que o Coordenador do Curso de Licenciatura em Computação indica o Coordenador do POIE. As atribuições incluem atender alunos, orientar com apoio dos orientadores, publicar a lista de orientadores, elaborar cronogramas, receber projetos e monografias, coordenar bancas e efetivar notas, entre outras.  Também vejo que o coordenador tem quatro horas semanais dedicadas ao componente curricular POIE. Isso sugere que a coordenação é uma tarefa significativa, mas não exaustiva, permitindo tempo para outros compromissos.  Além disso, as principais responsabilidades e deveres listados são variados, desde a orientação até a gestão de processos administrativos. Parece que o coordenador está envolvido em todas as fases do POIE, desde a seleção de orientadores até a avaliação final.  Além disso, se não houver nenhum professor aceitar orientar, o aluno recorre ao coordenador, que indicará um orientador adequado. Isso mostra que o coordenador também tem a responsabilidade de resolver conflitos ou problemas que surjam durante o processo.  Outro ponto importante é que cada professor pode orientar no máximo 8 alunos por semestre, o que implica em uma gestão cuidadosa da carga de trabalho dos orientadores. Assim, o coordenador precisa monitorar os limites de atendimento.  Também percebo que os alunos podem trocar de orientador, com aprovação do coordenador e observação dos prazos. Isso sugere que o coordenador tem a autoridade para decidir sobre mudanças nas orientações, garantindo que o processo esteja equilibrado.  No total, as atribuições do coordenador são multifacetas, envolvendo suporte ao aluno, gestão de processos, coordenação de avaliações e resolução de problemas.Essas pontos devem ser destacados em minha resposta. </think>  As principais atribuições do Coordenador do POIE incluem:  1. **Suporte ao Aluno**: Atender os alunos, orientá-los com apoio dos professores, publicar a lista de orientadores e elaborar cronogramas para o desenvolvimento do projeto.  2. **Gestão Administrativa**: Receber projetos e monografias, coordenar as bancas de avaliação e efetivar as notas, além de gerenciar outros aspectos administrativos.  3. **Resolução de Conflitos**: Indicar um orientador se não houver aceite inicial, e verificar a distribuição equilibrada de orientandos entre os professores.  4. **Coordenação de Avaliações**: Participar da coordenação das bancas de defesa e avaliação do trabalho final dos alunos.  5. **Monitoramento de Limites**: Garantir que cada professor não ultrapasse o limite máximo de alunos por semestre, como estipulado no regulamento.  6. **Approvação de Alterações**: Permitir a troca de orientador, desde que se justifique e obtenha homologação, garantindo que os prazos sejam respeitados.  7. **Cumprimento do Regulamento**: Assegurar que o trabalho seja desenvolvido conforme as normas estabelecidas, incluindo a entrega das versões impressas e a defesa pública.  Portanto, o Coordenador desempenha um papel crucial na organização e supervisão do projeto, garantindo que todos os processos sejam executados de forma eficiente e em conformidade com os regulamentos da instituição.
+CL:5
+
+TC:13.236664772033691
+PE:4-O que o aluno deve fazer se não encontrar um orientador?
+TR:99.90595865249634
+RE:<think> Ok, preciso responder a pergunta "O que o aluno deve fazer se não encontrar um orientador?" baseando-me no contexto fornecido. Primeiro, vou ler atentamente todo o conteúdo para entender as informações relevantes.  No contexto, está mencionado que se nenhum professor aceitar orientar o aluno, ele deve procurar o Coordenador do POIE. O coordenador indicará um orientador considerando a área do projeto e distribuição equilibrada dos orientandos. Além disso, o aluno pode ter coorientador pertencente à UEA ou externo.  Portanto, se o aluno não encontrar um professor que aceite orientar, sua primeira ação deve ser procurar o Coordenador do POIE para obter ajuda na indicação de um orientador adequado. Além disso, é importante que ele mantenha contato com o coordenador para monitorar o progresso do projeto.  Vou estruturar minha resposta em português, destacando as etapas que o aluno deve seguir e destacando a importância da cooperação entre o aluno, o orientador e o Coordenador. </think>  Se o aluno não encontrar um professor que aceite orientar, ele deve:  1. Procurar imediatamente o Coordenador do POIE, conforme indicado no contexto.  2. Solicitar ajuda para a indicação de um orientador adequado, considerando a área do projeto e a distribuição equilibrada dos alunos.  3. Manter contato regular com o Coordenador para acompanhar o desenvolvimento do trabalho.  Resposta: O aluno deve procurar o Coordenador do POIE para obter ajuda na indicação de um orientador adequado e manter contato regularmente com ele para monitorar o progresso do projeto.
+CL:5
+
+TC:13.236664772033691
+PE:5-Quem deve escrever a monografia?
+TR:112.07082462310791
+RE:<think> Ok, eu preciso responder a pergunta "Quem deve escrever a monografia?" baseando-me no contexto fornecido. Primeiro, vou ler todo o contexto para entender os detalhes relevantes.  No contexto, é mencionado que o POIE é uma pesquisa individual orientada, relatada em forma de monografia, sobre um tema da computação aplicada à educação. Também está claro que a monografia é feita pelo aluno, sem prejuízo das atribuições do Professor Orientador.  Continuo lendo para ver se há mais informações sobre quem escreve a monografia. Vejo que as principais responsabilidades do aluno incluem redigir o texto da monografia e reunir-se periodicamente com o orientador. Além disso, o professor tem deveres como avaliar o tema, acompanhar o desenvolvimento, corrigir versões e emitir o Termo de Encaminhamento.  Também vejo que a monografia deve seguir normas específicas, como as da ABNT e o modelo formal do curso. O aluno pode mudar o tema para o POIE II, desde que apresente um novo projeto com parecer favorável do orientador. Sempre é enfatizado que o aluno é o principal responsável pelo desenvolvimento da pesquisa.  Portanto, concluo que a monografia é feita pelo aluno, com apoio e orientação do Professor Orientador, mas sem prejuízo das atribuições do aluno. O professor ajuda no aprofundamento temático, na correção das versões e na avaliação, mas o aluno é quem redige e desenvolve o trabalho. </think>  A monografia deve ser feita pelo aluno. O Professor Orientador apoia o aluno mediante orientações, correcções e avaliações, mas a principal responsabilidade de redigir, desarrollar e apresentar o trabalho está com o aluno.  **Resposta:** O aluno é quem deve escrever a monografia, com apoio do Professor Orientador.
+CL:5
+
+TC:13.236664772033691
+PE:6-Quanto o aluno deve tirar para ser aprovado no TCC?
+TR:106.54322242736816
+RE:<think> Ok, vamos analisar a pergunta e os dados fornecidos. A pergunta é "Quantos o aluno deve tirar para ser aprovado no TCC?" Baseando-se no contexto, sabemos que o TCC é executado por meio de duas disciplinas: POIE I (Projeto) e POIE II (Monografia).   No contexto, menciona-se que o aluno pode substituir o POIE por um artigo científico publicado ou aceito em veículo com Qualis ≥ B. No entanto, isso é uma opção e não um requisito para a aprovação no TCC. O principal critério de aprovação é a média final igual ou superior a 6,0.  Assim, o aluno deve obter uma média de 6,0 ou mais para ser aprovado. Portanto, o número específico que o aluno precisa tirar não está directamente claro no contexto fornecido. No entanto, sabemos que a nota final é calculada com base na avaliação do seminário de andamento (20%), texto/monografia (60%) e apresentação oral (20%). Cada componente é avaliado por um examinador, e a média das notas dos três componentes é considerada.  Para ser aprovado, o aluno precisa que a média finalize em 6,0 ou mais. Portanto, a resposta mais precisa é que o aluno deve obter uma média igual ou superior a 6,0. </think>  Para ser aprovado no TCC, o aluno deve obter uma média final de 6,0 ou superior, calculada com base na avaliação do seminário de andamento (20%), texto/monografia (60%) e apresentação oral (20%).   Resposta: O aluno deve obter média igual ou superior a 6,0 para ser aprovado no TCC.
+CL:5
+
+TC:13.236664772033691
+PE:7-O aluno que tirar nota 7 está aprovado?
+TR:165.54620003700256
+RE:<think> Okay, so I'm trying to figure out if an undergraduate student who scores a 7 is approved in their Monografia (Monography) project. Let me go through the context provided step by step to get this straight.  First, from what's given, the Monografia is part of a curriculum component called POIE, which stands for Projeto de Observação e Investigação Específica (Project of Observation and Thematic Investigation). It's an individual research project presented as a monography on a topic related to computer applications in education.  The finality of this Monografia is to demonstrate the student's qualifications, deepen thematic understanding, stimulate scientific production, use specialized bibliography, and develop technological solutions applied to teaching. So it's a significant piece of work.  Looking at the grading criteria, each examinator assigns a grade based on specific regulations. The approval is based on achieving a final average of 6.0 or higher. If the student scores between 4.0 and 6.0, they need to retake the evaluation. So, getting a 7 isn't directly mentioned as a passing mark but rather that the average needs to be at least 6.0.  Wait, but if each examinator can give grades up to some scale (probably 10, given the context), then a 7 might be a good score, but it's not automatically approved. The student needs the average of all their evaluations (including both project presentation and written work) to be at least 6.0.  So in this case, scoring a 7 is above the midpoint, but since the approval is based on the average, if other components also contribute to the average, the student might still pass or have to retake if the average isn't high enough.  I should double-check the part about the criteria: "Qual é o critério de aprovação final?" which translates to "What is the final approval criterion?" The answer says that to be approved, the student must have a final average equal to or above 6.0. So it's not just a single score but an average across all components.  Therefore, even if the student scores high in some parts like presentation (7), they need their overall average to meet or exceed 6.0. If other components aren't as strong, the average might fall short. But if they consistently perform well enough to have an average of 6.0 or more, they pass.  So, in conclusion, getting a 7 isn't guaranteed approval; it's just one part of the evaluation process. The student needs their overall average to be at least 6.0 to pass. </think>  **Resposta Final:**  O aluno que obtém uma nota de 7 não está automaticamente aprovado no POIE. A aprovação depende da média final do aluno ser igual ou superior a 6,0. Portanto, um pontuação individual de 7 é apenas uma componente da avaliação, mas o aluno precisa obter uma média mínima de 6,0 para ser considerado aprovado.
+CL:5
+
+TC:13.236664772033691
+PE:8-Quantos orientandos cada orientador pode ter?
+TR:77.76132607460022
+RE:<think> Ok, vou tentar resolver a pergunta número 8 sobre quantos orientandos cada professor pode ter no POIE. Primeiro, preciso理解整个POIE的结构以及各个角色之间的关系。  从上下文中，我看到了几个关键点：  1. **Orientador Professor**: Professor que guia o aluno na pesquisa. 2. **Coordenador do POIE**: Professor que coordena todo o processo do POIE, incluindo a distribuição de alunos entre os orientadores.  Questiona-se quantos alunos um professor pode orientar por semestre, mencionando que "No máximo 8 alunos por semestre."  Outras informações importantes:  - Cada aluno pode ter um Co-Orientador, mas isso não afeta o limite do número de orientandos por professor. - O aluno pode trocar de orientador, mas precisa seguir os procedimentos e prazos.  Agora, preciso determinar se cada professor pode ter até 8 orientandos simultaneamente ou se é o total por semestre.  Parece que o limite é por semestre: "No máximo 8 alunos por semestre." Isso sugere que um professor não pode ter mais de 8 orientandos no mesmo semestre.  Portanto, cada professor pode orientar até 8 alunos em um semestre. </think>  Cada professor pode orientar até oito alunos por semestre.
+CL:5
+
+==============================deepseek-r1:14b==============================
+TC:25.04636311531067
+PE:1-O que significa TCC?
+TR:349.6692843437195
+RE:<think> Okay, I'm trying to figure out what TCC stands for in the context provided. Let me go through the information step by step.  The context is about the POIE (Pesquisa Orientada Individual na Educação), which is an individual research project leading to a monography in computing applied to education. The document explains various aspects like the purpose of the monography, roles of coordinators and professors, student responsibilities, submission requirements, evaluation processes, etc.  Looking through the questions and answers, I see that towards the end, there's a section about TCC and POIE. It says: "Qual é a relação entre TCC e POIE? O trabalho de conclusão de curso (TCC) é executado por meio de duas disciplinas chamadas POIE I e II." So, TCC is mentioned in relation to POIE.  Breaking that down: TCC stands for Trabalho de Conclusão de Curso, which translates to "Graduation Thesis" or "Final Project." It's the final academic work students complete as part of their degree. In this case, it's being conducted through POIE I and II, which are two courses focused on individual oriented research.  So, TCC refers to the graduation thesis, specifically completed via these two POIE disciplines. </think>  TCC significa "Trabalho de Conclusão de Curso," que é a tese ou projeto final de conclusão do curso. No contexto mencionado, o TCC é realizado através das disciplinas POIE I e II, constituindo-se em um trabalho de pesquisa orientada aplicado à computação na educação.
+CL:5
+
+TC:25.04636311531067
+PE:2-Quais são os objetivos da monografia?
+TR:412.42031168937683
+RE:<think> Okay, I need to figure out what the user is asking for. They provided a context about POIE, which stands for Pesquisa Orientada Individual em Ensino, and then asked a specific question in Portuguese. The question is "Qual é a finalidade da Monografia?" or "What is the purpose of the monograph?"  Looking at the context given, there's a section that directly answers this. It lists several points under "Finalidade da Monografia," which translates to "Purpose of the Monography." These include demonstrating student capability, in-depth thematic exploration, encouraging scientific production, using specialized bibliography, and developing technological solutions for teaching.  I should make sure I capture all these points accurately in Portuguese. The user probably needs a concise summary based on the context provided. They might be a student or staff member involved with POIE, looking to understand the objectives quickly. Maybe they're preparing for an exam, assignment, or just wanting clarity on monograph purposes.  I should structure the answer clearly, listing each objective as bullet points for readability. Ensuring that I translate the technical terms correctly is crucial. For example, "produção científica" means "scientific production," and "soluções tecnológicas aplicadas ao ensino" translates to "technological solutions applied to teaching."  I also need to check if there are any nuances in Portuguese that might affect understanding. Since the context is already in Portuguese, my response should match that language. Additionally, making sure each point is distinct and clearly explained will help the user grasp the information without confusion.  In summary, the answer should be a straightforward list of objectives derived from the provided context, presented clearly and concisely in Portuguese. </think>  A monografia tem como objetivos demonstrar habilitação do aluno, aprofundamento temático, estímulo à produção científica, uso de bibliografia especializada e desenvolvimento de soluções tecnológicas aplicadas ao ensino.
+CL:5
+
+TC:25.04636311531067
+PE:3-Quais são as atribuições do coordenador?
+TR:241.2725739479065
+RE:<think> Okay, so I need to figure out the answer to "Quais são as atribuições do coordenador?" based on the given context. Let me start by understanding what this question is asking. It's about the responsibilities or duties of the coordinator in the POIE program.  Looking at the context provided, under the section "Quem são os responsáveis?" it says that the Coordinator is indicated by the Course Coordinator of the Computer Science Licenciature. Then, further down, there's a specific part about the Coordinator's responsibilities and duties. It lists several points: attending students, orienting with support from advisors, publishing a list of advisors, creating timetables, receiving projects and monographs, coordinating evaluation boards, and recording grades, among others.  So, the main point here is to extract these responsibilities into a clear and concise answer in Portuguese. I should make sure to cover all the key tasks mentioned without adding unnecessary details. It's important to present each responsibility as a separate item for clarity, perhaps using bullet points or numbered list if possible. However, since the user hasn't specified formatting, I'll keep it simple with a sentence structure.  Let me rephrase each point in my own words to ensure accuracy:  1. Atendimento a alunos (attending students) 2. Orientação com apoio de orientadores (orienting with advisors' support) 3. Publicação da lista de orientadores (publishing the list of advisors) 4. Elaboração de cronogramas (developing timetables) 5. Recebimento de projetos e monografias (receiving projects and monographs) 6. Coordenação de bancas de avaliação (coordinating evaluation boards) 7. Registro das notas (recording grades)  I should make sure each of these is clearly stated in Portuguese, maintaining the original meaning from the context. </think>  As atribuições do coordenador no POIE incluem:  1. Atender aos alunos e orientá-los com o apoio dos orientadores. 2. Publicar a lista de orientadores disponíveis. 3. Elaborar cronogramas para os projetos. 4. Receber os projetos e monografias submetidos. 5. Coordenar as bancas de avaliação das defesas. 6. Registrar as notas dos alunos no sistema.  Estas responsabilidades garantem que o programa funcione de forma organizada e eficiente, promovendo a qualidade da pesquisa e do ensino.
+CL:5
+
+TC:25.04636311531067
+PE:4-O que o aluno deve fazer se não encontrar um orientador?
+TR:330.0014998912811
+RE:<think> Ok, vamos ver. O usuário está me perguntando o que um aluno deve fazer se não encontrar um orientador no POIE. Primeiro, preciso lembrar das informações fornecidas no contexto.  No contexto, vi que há uma seção específica para isso: "O que fazer se nenhum professor aceitar orientar o aluno?" A resposta dita que o aluno deve procurar o Coordenador do POIE, que indicará um orientador observando a área do projeto e a distribuição equilibrada de orientandos.  Então, o passo a passo é: tentar encontrar um professor disponível na área de interesse, se ninguém aceita, ir ao coordenador. O coordenador então fará a indicação com base no projeto e equilibrando os alunos por orientador.  Vou resumir isso em uma resposta clara. </think>  O aluno deve procurar o Coordenador do POIE para que ele indique um orientador, considerando a área do projeto e a distribuição equilibrada de orientandos.
+CL:5
+
+TC:25.04636311531067
+PE:5-Quem deve escrever a monografia?
+TR:385.1503598690033
+RE:<think> Ok, preciso responder à pergunta "5- Quem deve escrever a monografia?" com base no contexto fornecido. Vou dar uma olhada no que está escrito lá.  No contexto, fala sobre o POIE ser uma pesquisa individual orientada, relatada em forma de monografia. Em seguida, explica qual é a finalidade da monografia e depois começa a responder perguntas específicas.  Aqui está um trecho relevante: "Quem é responsável pela redação e desenvolvimento da pesquisa? O aluno, sem prejuízo das atribuições do Professor Orientador." Isso sugere que o aluno é quem escreve a monografia, embora o professor tenha papéis orientadores.  Outro ponto importante: "O aluno deve participar de reuniões, manter contato semanal com orientador, cumprir cronograma, entregar versões impressas conforme regras, defender publicamente, e manter 75% de frequência." Isso reforça que o aluno é responsável pelo desenvolvimento da pesquisa e redação.  Também há menção das responsabilidades do Professor Orientador, incluindo "atendimento aos orientandos, avaliação do tema, acompanhamento do desenvolvimento, correção das versões, emissão do Termo de Encaminhamento, participação na defesa e cumprimento do regulamento." O professor ajuda e corrige, mas o aluno é quem escreve.  Portanto, a resposta clara é que o aluno deve ser responsável pela redação da monografia. </think>  O aluno é responsável por escrever a monografia.
+CL:5
+
+TC:25.04636311531067
+PE:6-Quanto o aluno deve tirar para ser aprovado no TCC?
+TR:104.06108808517456
+RE:<think> Ok, preciso responder à pergunta: "6- Quanto o aluno deve tirar para ser aprovado no TCC?" Primeiro, lembro que o TCC é feito através das disciplinas POIE I e II. No contexto fornecido, vejo que a avaliação do POIE é composta de três partes: 20% Seminário de andamento, 60% Texto do projeto/monografia, e 20% Apresentação oral. A aprovação final exige uma média igual ou superior a 6,0. Se a nota estiver entre 4,0 e 6,0, o aluno deve fazer correções e passar por nova avaliação. Portanto, para ser aprovado, o aluno precisa obter pelo menos 6,0 na soma das avaliações. </think>  Para ser aprovado no TCC (trabalho de conclusão de curso), o aluno deve alcançar uma nota final igual ou superior a 6,0.
+CL:5
+
+TC:25.04636311531067
+PE:7-O aluno que tirar nota 7 está aprovado?
+TR:143.2303340435028
+RE:<think> Okay, so I'm trying to figure out whether a student who gets a 7 is approved in the context of the POIE system. Let me go through the information step by step.  First, from the context provided, I remember that the final approval for the POIE (Pesquisa Orientada Individual) depends on the student's average grade. The question specifically asks if scoring 7 means approval.  Looking at the context, there's a section under "Como as notas são atribuídas?" which translates to "How grades are assigned." It says each examiner assigns an individual grade based on the criteria in the regulation, and the average determines the result.  Then, further down, under "Qual é o critério de aprovação final?", or "What is the final approval criterion?", it states that the student must obtain a final average of 6.0 or higher to be approved.  So putting this together: if a student scores a 7, which is above the required minimum of 6.0, they should be approved. The system allows for grades between 4.0 and 6.0 to require corrections and a reevaluation, but anything equal to or above 6.0 is passing.  I don't see any information suggesting that a higher threshold like 7 would change this approval status; the key factor is whether it's at least 6.0. </think>  Sim, o aluno que tirar nota 7 está aprovado.
+CL:5
+
+TC:25.04636311531067
+PE:8-Quantos orientandos cada orientador pode ter?
+TR:91.12123155593872
+RE:<think> Okay, so I'm trying to figure out how many students each advisor can have in the POIE program. From what I remember reading, there was a specific number mentioned, but I need to make sure I get it right.  I think the context said something about a maximum number of students per semester. Let me go back and check. Oh yeah, it says "No máximo 8 alunos por semestre." So that translates directly to "Up to 8 students per semester."   Wait, is there anything else I should consider? Like any exceptions or conditions? The context didn't mention any other factors, so I think it's straightforward.  So, each advisor can have a maximum of 8 students they're responsible for in one semester. That seems like a standard number to prevent the advisors from being overwhelmed and ensuring each student gets adequate attention. </think>  Cada orientador pode ter no máximo 8 alunos por semestre.
+CL:5
+

@@ -1,0 +1,157 @@
+1. O que é o POIE?
+
+O POIE é uma pesquisa individual orientada, relatada em forma de monografia, sobre um tema da computação aplicada à educação. (Art. 2º)
+
+2. Qual é a finalidade da Monografia?
+
+Demonstrar habilitação do aluno, aprofundamento temático, estímulo à produção científica, uso de bibliografia especializada e desenvolvimento de soluções tecnológicas aplicadas ao ensino. (Art. 3º)
+
+3. Quem indica o Coordenador do POIE?
+
+O Coordenador do Curso de Licenciatura em Computação. (Art. 4º)
+
+4. Quantas horas semanais são atribuídas ao Coordenador do POIE?
+
+Quatro horas semanais referentes ao componente curricular POIE. (Art. 4º, Parágrafo Único)
+
+5. Quais são as principais atribuições do Coordenador do POIE?
+
+Atender alunos, orientar com apoio dos orientadores, publicar lista de orientadores, elaborar cronogramas, receber projetos e monografias, coordenar bancas e efetivar notas, entre outras. (Art. 5º)
+
+6. Como o aluno escolhe o Professor Orientador no POIE I?
+
+O aluno escolhe, por requerimento próprio, um professor disponível da área de interesse, mediante aceite do orientador. (Art. 6º)
+
+7. O aluno pode ter coorientador?
+
+Sim, pertencente à UEA ou externo. (Art. 6º, §2º)
+
+8. O que fazer se nenhum professor aceitar orientar o aluno?
+
+O aluno deve procurar o Coordenador do POIE, que indicará um orientador observando área do projeto e distribuição equilibrada de orientandos. (Art. 7º)
+
+9. Quantos alunos cada professor pode orientar?
+
+No máximo 8 alunos por semestre. (Art. 8º)
+
+10. É permitido trocar de orientador?
+
+Sim, mediante requerimento justificado e homologação do Coordenador, observados os prazos do cronograma. (Art. 9º)
+
+11. Quais são os deveres do Professor Orientador?
+
+Incluir reuniões, atendimento aos orientandos, avaliação do tema, acompanhamento do desenvolvimento, correção das versões, emissão do Termo de Encaminhamento, participação na defesa e cumprimento do regulamento. (Art. 10)
+
+12. Quem é responsável pela redação e desenvolvimento da pesquisa?
+
+O aluno, sem prejuízo das atribuições do Professor Orientador. (Art. 11º)
+
+13. Quem preside a banca de avaliação do POIE?
+
+O Professor Orientador. (Art. 11, §2º)
+
+14. Quem é considerado aluno em fase de Projeto e Monografia?
+
+Quem estiver matriculado em POIE I (Projeto) e POIE II (Monografia). (Art. 12)
+
+15. Quais são os principais deveres do aluno durante o POIE?
+
+Participar de reuniões, manter contato semanal com orientador, cumprir cronograma, entregar versões impressas conforme regras, defender publicamente, e manter 75% de frequência. (Art. 13)
+
+16. Quais documentos o aluno deve entregar ao final do POIE I?
+
+3 cópias impressas encadernadas em espiral;
+
+1 folha de encaminhamento assinada pelo orientador.
+(Art. 13, V)
+
+17. Quais documentos devem ser entregues ao final do POIE II?
+
+Devem ser entregues: 3 cópias impressas; Folha de encaminhamento; Folha de autorização de publicação; Cópias de código e instalador (quando houver sistema); Cópias de código e URL (quando for aplicação web); 1 cópia em capa dura verde + 1 versão digital em PDF. (Art. 13, VI)
+
+18. O que acontece se o aluno tiver menos de 75% de frequência?
+
+Será automaticamente reprovado. (Art. 13, Parágrafo Único)
+
+19. O que ocorre se o aluno entregar versões fora do prazo?
+
+Há penalidades graduais, incluindo perda parcial ou total da avaliação, dependendo do atraso, e possibilidade de não colar grau se não entregar a versão final em capa dura. (Art. 14)
+
+20. A monografia deve seguir qual padrão?
+
+As normas da ABNT e o modelo formal definido pelo Colegiado do Curso. (Art. 15 e Art. 16)
+
+21. O aluno pode mudar o tema no POIE II?
+
+Sim, desde que elabore novo projeto em até 30 dias do início do semestre e com parecer favorável do orientador. (Art. 17)
+
+22. Como funcionam os seminários de andamento?
+
+O aluno apresenta resultados parciais; a banca é composta por dois professores e o orientador não participa da banca. (Art. 18)
+
+23. Como é composta a banca de defesa final?
+
+Pelo orientador (presidente) e dois examinadores indicados pelo orientador e designados pelo Coordenador. (Art. 19)
+
+24. Quem pode ser examinador?
+
+Um professor do curso e um membro externo da área afim; se não houver externo, ambos podem ser do curso. (Art. 20)
+
+25. Quantos membros precisam estar presentes para realizar a defesa?
+
+Três membros. (Art. 21)
+
+26. As defesas são públicas?
+
+Sim. (Art. 22)
+
+27. Quem define o cronograma de atividades?
+
+O Coordenador de POIE junto com o Coordenador do Curso. (Art. 23)
+
+28. Com quanto tempo de antecedência as monografias devem ser enviadas aos examinadores?
+
+Com pelo menos 15 dias de antecedência. (Art. 24)
+
+29. Quanto tempo o aluno tem para apresentar seu trabalho na defesa?
+
+Projeto: 12 a 15 min
+
+Monografia: 15 a 20 min
+(Art. 25)
+
+30. Como as notas são atribuídas?
+
+Cada examinador atribui nota individual conforme critérios do regulamento; a média define o resultado. (Art. 26)
+
+31. O que acontece se o aluno não entregar o trabalho ou não comparecer à defesa?
+
+Será automaticamente reprovado. (Art. 27)
+
+32. Como é composta a avaliação do POIE?
+
+20% Seminário de andamento; 60% Texto do projeto/monografia; e 20% Apresentação oral (Art. 28)
+
+33. Qual é o critério de aprovação final?
+
+Média final ≥ 6,0. (Art. 29)
+
+34. O que ocorre se o aluno ficar com média entre 4,0 e 6,0?
+
+Deve realizar correções e passar por nova avaliação. (Art. 30)
+
+35. É possível substituir o POIE por artigo científico publicado?
+
+Sim, se o aluno for primeiro autor de artigo completo relacionado à informática na educação, publicado ou aceito em veículo com Qualis ≥ B. (Art. 31)
+
+36. Quais documentos são necessários para solicitar a substituição pelo artigo?
+
+Cópia do artigo, da capa do veículo, e do aceite/certificado de publicação. (Art. 32)
+
+37. Quem decide sobre pedidos não previstos no regulamento?
+
+O Colegiado do Curso de Licenciatura em Computação. (Art. 33)
+
+38. Qual a relação entre TCC e POIE?
+
+O trabalho de conclusão de curso (TCC) é executado por meio de duas disciplinas chamadas POIE I e II.
